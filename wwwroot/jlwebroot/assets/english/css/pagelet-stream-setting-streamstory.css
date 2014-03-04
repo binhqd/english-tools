@@ -1,0 +1,7 @@
+/* setting stream item*/
+.wd-setting-streamstory{position:relative}
+.wd-setting-streamstory .wd-setting-stream-content{background-color:#fff;display:none;border:1px solid #c7c7c7;position:absolute;top:38px;right:-9px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-moz-box-shadow: 0 0 2px #ccc;-webkit-box-shadow: 0 0 2px #ccc; box-shadow: 0 0 2px #ccc;}
+.wd-setting-streamstory .wd-setting-stream-content .wd-uparrow-1{background:url(../img/front/bg-sprite.png) -189px -56px no-repeat; display:block;position:absolute;top:-7px;right:12px;height:7px;width:11px}
+.wd-setting-streamstory .wd-setting-stream-content ul{list-style: none outside none;margin:0;padding:5px 0;}
+.wd-setting-streamstory .wd-setting-stream-content ul li a{color:#616161;display:block;padding:5px 16px;font-size:12px;min-width:105px}
+.wd-setting-streamstory .wd-setting-stream-content ul li a:hover{background-color:#e7e7e7;color:#000;text-decoration:none}

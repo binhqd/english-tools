@@ -1,0 +1,15 @@
+.wd-interest-search-result{overflow:hidden}
+.wd-interest-item{display:inline-block;*display:inline;padding:10px 6px 10px 10px;}
+.wd-interest-item .wd-interest-image{cursor:pointer;margin-bottom:15px;overflow:hidden;position:relative;width:145px}
+.wd-interest-item .wd-tt-pp-4{margin-bottom:5px}
+.wd-interest-item .wd-count{color:#3b3b3b;font-size:12px;}
+
+.wd-interest-image .wd-add-interest-bt{background:url(../img/front/bg-interest-bt.png) repeat;color:#7e7e7e;display:block;height:29px;margin-left:116px;position:absolute;top:0;left:0;text-align:center;width:100%;transition:margin-left 0.5s ease-out;-webkit-transition: margin-left 0.5s ease-out; -moz-transition: margin-left 0.5s ease-out; -o-transition: margin-left 0.5s ease-out; }
+.wd-interest-image:hover .wd-add-interest-bt{margin-left:0}
+.wd-interest-image .wd-add-interest-bt:hover{background-image:url(../img/front/bg-interested-bt.png);color:#fff;text-decoration:none}
+.wd-add-interest-bt .wd-icon{background:url(../img/front/bg-sprite.png) no-repeat -506px -143px;display:block;margin:7px 16px 7px 8px ;height:13px;overflow:hidden; width:13px;float:left;}
+.wd-add-interest-bt:hover .wd-icon{background-position:-524px -143px}
+.wd-add-interest-bt .wd-text{float:left;font-size:12px;margin-top:6px}
+.wd-add-interested-bt .wd-icon{background-position:-542px -143px;margin-top:9px}
+.wd-interest-image .wd-add-interested-bt:hover{background-image:url(../img/front/bg-interested-green-bt.png);}
+.wd-add-interested-bt:hover .wd-icon{background: none transparent}

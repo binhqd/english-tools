@@ -1,0 +1,1 @@
+<?php $this->widget('widgets.common.MenuCategory');?>

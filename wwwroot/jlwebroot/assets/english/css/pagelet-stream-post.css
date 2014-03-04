@@ -1,0 +1,72 @@
+.wd-pagelet-composer{background-color:#f8f8f8;border:1px solid #bebebe;font-size:12px;-moz-box-shadow: 0 0 3px #aaa;-webkit-box-shadow: 0 0 3px #aaa;box-shadow:0 0 3px #aaa}
+
+.wd-pagelet-composer-topform{border-bottom:1px solid #dfdfdf;}
+.wd-pagelet-composer-topform .wd-list-composer{list-style: none outside none;margin:0;padding:11px 0}
+.wd-pagelet-composer-topform .wd-list-composer li {display:inline-block;*display:inline;*zoom:1;font-size:12px;font-weight:bold;padding:0 10px;position:relative}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-title-composer{color:#7b7b7b;font-size:12px;font-weight:bold;padding:0 0 0 14px}
+.wd-pagelet-composer-topform .wd-list-composer .wd-title-composer .wd-icon-dot{background:url(../img/front/bg-sprite.png) no-repeat -413px -67px;display:block;float:left;height:6px;margin-right:5px;margin-top:6px;overflow:hidden;text-indent:-1983px;width:6px;}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-composer-post{border-right:1px solid #dfdfdf}
+.wd-pagelet-composer-topform .wd-list-composer li a{color:#555555;}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-active a{color:#e45826;cursor:default}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-active a:hover{text-decoration:none}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-active a:hover .wd-icon-16{cursor:default}
+.wd-pagelet-composer-topform .wd-list-composer .wd-icon-16{float:left;margin-right:10px;}
+.wd-pagelet-composer-topform .wd-list-composer li .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -189px -40px;bottom:-17px;display:none;left:12px;height:6px;position:absolute;width:9px;}
+.wd-pagelet-composer-topform .wd-list-composer li.wd-active .wd-arrow{display:block}
+
+.wd-pagelet-composer-mainform .wd-pagelet-composer-title-inputbox{background-color:#fff;border-bottom:1px solid #dfdfdf;padding:12px}
+.wd-pagelet-composer-mainform .wd-pagelet-composer-title-inputbox textarea{ -moz-box-sizing: border-box; background-color: transparent; border: 0 none;color:#000; outline: 0 none;display:block;font-weight:bold;max-width: 100%;margin: 0;padding: 0; width: 100%;height:15px;resize: none; }
+.wd-pagelet-composer-mainform .wd-pagelet-composer-inputbox{background-color:#fff;padding:12px}
+.wd-pagelet-composer-mainform .wd-pagelet-composer-inputbox textarea{ -moz-box-sizing: border-box; background-color: transparent; border: 0 none; outline: 0 none;display:block;max-width: 100%;margin: 0;padding: 0; width: 100%;height:44px;resize: none; }
+.wd-pagelet-composer-mainform .wd-pagelet-composer-title-inputbox .textareaClone{min-height:15px;}
+.wd-pagelet-composer-mainform .wd-pagelet-composer-inputbox .textareaClone{min-height:44px;}
+
+.wd-pagelet-composer-inputmore{border-top:1px solid #dfdfdf;height:41px}
+.wd-list-composerAudienceWrapper{list-style: none outside none;margin:0;padding:6px 6px 6px 0;float:right}
+.wd-list-composerAudienceWrapper li{float:right}
+.wd-list-composerAudienceWrapper li input.wd-post-sbm{background-color:#e45826;border:1px solid #d84c19;color:#fff;cursor:pointer;font-size:12px; font-weight:bold; 
+padding:4px 12px; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;margin-top:2px}
+.wd-list-composerAudienceWrapper li input.wd-post-sbm:hover{background-color:#f55d27}
+.wd-list-composerAudienceWrapper li .wd-stat_elem{padding-right:10px;position:relative}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-icon-postsetting{margin-top:7px}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-selector-button{border:1px solid transparent;color:#4a4a4a;display:block;font-size:11px; margin-top:3px;overflow:hidden; padding:3px 24px 3px 28px; position:relative;z-index:12}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-selector-button:hover{background-color:#fff;border-color: #c7c7c7}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-selector-button .wd-icon-16{position:absolute;left:5px;top:3px}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-selector-button .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -406px -39px;display:block;right:5px;height:4px;position:absolute;top:10px;width:8px;}
+.wd-list-composerAudienceWrapper li .wd-stat_elem .wd-selector-button.wd-toggle-bt-active{background-color:#fff;border-color: #c7c7c7;border-bottom-color:#fff;-moz-box-shadow: 1px -1px 1px #CCCCCC; -webkit-box-shadow:1px -1px 1px #CCCCCC; box-shadow:1px -1px 1px #CCCCCC;}
+
+.wd-post-privacy-setting{background-color:#fff;display:none;border:1px solid #c7c7c7;position:absolute;top:24px;right:10px;-moz-box-shadow: 1px 1px 2px #ccc; -webkit-box-shadow: 1px 1px 2px #ccc; box-shadow: 1px 1px 2px #ccc;z-index:10}
+.wd-post-privacy-setting ul{list-style: none outside none;margin:0;padding:5px 0;}
+.wd-post-privacy-setting ul li{padding:0;float:none}
+.wd-post-privacy-setting ul li a{color:#616161;display:block;font-size:11px;padding:5px 11px;font-size:12px;min-width:120px;font-weight:normal;overflow:hidden}
+.wd-post-privacy-setting ul li.wd-active a,.wd-post-privacy-setting ul li a:hover{background-color:#e7e7e7;color:#000;text-decoration:none}
+.wd-post-privacy-setting ul li a span{float:left}
+.wd-post-privacy-setting ul li a .wd-icon-16{margin-right:7px;margin-top:2px}
+
+
+.wd-pagelet-composer-inputphoto{border:2px dashed #e5e5e5;padding:15px 20px;text-align:center;}
+.wd-pagelet-composer-inputphoto .wd-icon-addbutton{margin-bottom:10px}
+
+/* attachments */
+.wd-pagelet-composer-inputmore .wd-pcr-tags,.wd-pagelet-composer-inputmore .wd-pcr-formatting-option{float:left;border-right:1px solid #dfdfdf;position:relative}
+.wd-pagelet-composer-inputmore .wd-pcr-tags .wd-attachments-bt,.wd-pagelet-composer-inputmore .wd-pcr-formatting-option .wd-formatting-optoin-bt{background-color:#f8f8f8;display:block;width:16px;padding:13px 15px 12px;}
+.wd-pagelet-composer-inputmore .wd-pcr-tags .wd-attachments-bt.wd-toggle-bt-active,.wd-pagelet-composer-inputmore .wd-pcr-tags .wd-attachments-bt:hover,.wd-pagelet-composer-inputmore .wd-pcr-formatting-option .wd-formatting-optoin-bt.wd-toggle-bt-active,.wd-pagelet-composer-inputmore .wd-pcr-formatting-option .wd-formatting-optoin-bt:hover{background-color:#fff;}
+
+.wd-pagelet-composer-inputmore .wd-pcr{float:right}
+.wd-pagelet-composer-inputmore .wd-attachments-toggle{background-color:#fff;border:1px solid #5a86a2;display:none;left:0;padding:5px 0;position:absolute;top:-76px;-moz-box-shadow: 0 0 3px #a7a7a7;-webkit-box-shadow: 0 0 3px #a7a7a7;box-shadow:0 0 3px #a7a7a7}
+.wd-pagelet-composer-inputmore .wd-attachments-toggle .wd-uparrow-1{background:url(../img/front/bg-sprite.png) no-repeat -403px -65px;bottom:-5px;display:block;left:16px;height:5px; position:absolute;width:7px;}
+.wd-attachments-toggle .wd-attachments-file{list-style: none outside none;margin:0;padding:0;min-width:206px}
+.wd-attachments-toggle .wd-attachments-file li a{display:block;overflow:hidden;padding:5px 15px;font-size:11px;color:#4c4c4c}
+.wd-attachments-toggle .wd-attachments-file li a:hover{background-color:#dee7ec;text-decoration:none}
+.wd-attachments-toggle .wd-attachments-file li .wd-icon-att{float:left;margin-right:10px;margin-top:2px}
+
+/*  text formatting */
+.wd-formatting-option-toggle{background-color:#f5f5f5;border:1px solid #5a86a2;display:none;padding:7px 3px 7px 10px;position:absolute;top:-42px;-moz-box-shadow: 0 0 3px #a7a7a7;-webkit-box-shadow: 0 0 3px #a7a7a7;box-shadow:0 0 3px #a7a7a7;min-height:20px}
+.wd-formatting-option-toggle .wd-uparrow-1{background:url(../img/front/bg-sprite.png) no-repeat -403px -65px;bottom:-5px;display:block;left:16px;height:5px; position:absolute;width:7px;}
+.wd-formatting-option-content{min-width:256px}
+.wd-formatting-option-content .wd-textformatting-item{float:left;margin-right:7px}
+
+/* fix for chrome */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .wd-list-composerAudienceWrapper li input.wd-post-sbm{padding:5px 14px; }
+}

@@ -1,0 +1,23 @@
+.wd-edit-profile-user-lc{padding-bottom:30px}
+.wd-headaction-buttons{overflow:hidden;padding:8px 10px 7px 5px;}
+.wd-headaction-buttons .wd-form-bt-1{margin-left:6px}
+.wd-customiz-public-profile{padding:25px 30px 35px}
+.wd-customiz-intro{color:#777;font-size:14px;margin-bottom:25px;margin-top:15px;font-weight:100}
+
+fieldset.wd-customiz-form .wd-everyone-content{margin-bottom:10px}
+fieldset.wd-customiz-form .wd-input-checkbox-cus,fieldset.wd-customiz-form .wd-input-radio-cus{overflow:hidden}
+fieldset.wd-customiz-form .wd-input .wd-tt-1{font-size:14px;float:left;margin-top:2px;}
+fieldset.wd-customiz-form .wd-everyone-detail-content{display:none;padding:20px 0 10px 42px;font-size:13px;}
+fieldset.wd-customiz-form .wd-everyone-detail-content .wd-input{min-height:42px}
+fieldset.wd-customiz-form .wd-everyone-detail-content .wd-input-right{overflow:hidden;padding-top:2px}
+fieldset.wd-customiz-form .wd-input .wd-tt-3{font-size:12px;color:#777;}
+fieldset.wd-customiz-form .wd-input .wd-tt-4{font-size:11px;color:#777;}
+fieldset.wd-customiz-form .wd-input-child{background:url(../img/front/bg-tree-form.png) no-repeat 0 0;padding-left:20px;margin-top:8px}
+fieldset.wd-customiz-form .wd-input-child .checker{margin-top:1px}
+
+.wd-left-block .wd-edit-block{position:relative;float:none;overflow:visible}
+.wd-left-block .wd-edit-block .wd-icon-edit-28,.wd-left-block .wd-edit-follows .wd-icon-edit-28,.wd-left-block .wd-edit-follows .wd-icon-close-28{position:absolute;right:5px;top:0;z-index:2}
+.wd-left-block .wd-edit-follows {position:relative}
+
+.wd-left-block .wd-edit-block .wd-edit-button{display:none}
+.wd-left-block .wd-edit-block:hover .wd-edit-button{display:block}

@@ -1,0 +1,14 @@
+.wd-content-box{border-bottom:1px solid #dcdcdc;padding:7px 14px 7px 10px;}
+.wd-content-box {overflow:hidden}
+.wd-content-box .wd-thumb{float:left;margin-right:10px} 
+.wd-content-box .wd-thumb img{-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:40px;height:40px;}
+.wd-content-box .wd-thumb img:hover{border-color:#f98b64}
+.wd-right-box{overflow:hidden}
+.wd-right-box .wd-inputbox{background-color:#fff;border:1px solid #d3d3d3;margin-top:1px}
+.wd-right-box textarea{ -moz-box-sizing: border-box; background-color: transparent; border: 0 none; outline: 0 none;display:block;max-width: 100%;margin: 0;padding: 3px; width: 100%;height:34px;resize: none; }
+.wd-right-box .textareaClone{min-height:34px;}
+.wd-right-box p{line-height:16px;font-size:12px}
+.wd-right-box p.wd-commentpost{margin-top:5px}
+.wd-right-box p.wd-commentpost .wd-userpost-name strong{font-weight:bold}
+.wd-right-box p.wd-date-post{font-size:11px;color:#7c7c7c}
+.wd-viewall-box{border-bottom:none;text-align:center;font-size:11px}

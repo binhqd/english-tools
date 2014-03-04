@@ -1,0 +1,12 @@
+/**
+ * Top notification
+ *
+ * @author huytbt
+ * @date 2012-03-08 3:30:00 PM
+ */
+
+.wd-top-notification {position:fixed;top:200px;right:150px;z-index:9999;font-size:11px}
+.wd-top-notification .ui-corner-all {-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;padding:0px 3px;margin-bottom:2px}
+.wd-top-notification .ui-icon-info {float:left;margin-top:2px}
+.wd-top-notification .ui-icon-circle-close {float:right;margin-top:2px;cursor:pointer}
+.wd-top-notification .wd-notification-content {padding:0px 3px}

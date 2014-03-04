@@ -1,0 +1,33 @@
+.wd-topsearch-pagelet-form .wd-input-search input.wd-text-search{width:417px;}
+.wd-pagelet-list-celebrities{position:relative;margin-top:20px;}
+.wd-view-all-list-celebrities .wd-photo-ce{float:none;width:100%;height:auto;overflow:hidden;margin:0;display:block;text-align:center;margin-bottom:10px;}
+.wd-view-all-list-celebrities .wd-photo-ce img{width:100%;height:100%;display:block;
+	transition: all 0.9s ease-in-out 0s;
+	-webkit-transition: all 0.9s ease-in-out 0s;
+	-ms-transition: all 0.9s ease-in-out 0s;
+	transform: scale(1);
+	-ms-transform:scale(1); /* IE 9 */
+	-webkit-transform:scale(1); /* Safari and Chrome */
+}
+.wd-view-all-list-celebrities .wd-photo-ce img:hover{
+	transform:scale(1.15);
+	-ms-transform:scale(1.15); /* IE 9 */
+	-webkit-transform:scale(1.15); /* Safari and Chrome */
+}
+/*.wd-view-all-list-celebrities .wd-userpost-right{clear:both;}*/
+.wd-view-all-list-celebrities .wd-statuscontent-left li .wd-value{font-size:14px;}
+.wd-view-all-list-celebrities .wd-statuscontent-left li .wd-tt{font-size:11px}
+.wd-view-all-list-celebrities .wd_tt_st_4{font-size:16px;}
+.wd-view-all-list-celebrities .wd-userpost-right{padding-left:10px;background:#fff;}
+.wd-view-all-list-celebrities .wd-bg-line{background:url(../img/front/bg-line.png) repeat-x 0 center;overflow:hidden;clear:both}
+.wd-item-large{width:441px;}
+.wd-item-easy{width:222px;}
+.wd-streamstory-viewall-action-composer{margin-bottom:30px;float:left;}
+@media screen and (max-width:1095px) {
+	.wd-topsearch-pagelet-form .wd-input-search input.wd-text-search{width:195px;}
+	.wd-viewallobjn-topsearch-form{padding:10px;}
+}
+@media screen and (max-width:768px) {
+	.wd-topsearch-pagelet-form .wd-input-search input.wd-text-search{width:240px;}
+	.wd-viewallobjn-topsearch-form{padding:10px;}
+}

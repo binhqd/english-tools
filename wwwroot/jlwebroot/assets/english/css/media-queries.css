@@ -1,0 +1,10 @@
+@media screen and (max-width: 1152px){
+	.wd-right-content{display:none}
+	.wd-wrapper .wd-center{width:auto;}
+	.wd-container{background-image:none}
+	.wd-left-content{width:408px}
+	.wd-left-block{padding:15px 6px}
+	.wd-container .wd-center{background-position:-36px}
+	.wd-container .wd-center-content-layout2{background:url(../img/front/bg-layout-2-r24.png) repeat-y right 0 #fff;}
+	.wd-container .wd-center-content-layout4{background:url(../img/front/bg-layout-3-nr.png) repeat-y right 0 #fff;}
+}

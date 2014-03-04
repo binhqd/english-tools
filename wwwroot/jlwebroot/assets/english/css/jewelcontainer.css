@@ -1,0 +1,39 @@
+.wd-jewelcontainer{border-left:1px solid #cccccd;padding:18px 10px 15px}
+.wd-jewelcontainer .wd-notifiheader{float:right;padding:0 10px;position:relative;}
+.wd-jewelcontainer .wd-notifiheader .wd-notif-new{background-color:#e6001b;color:#fff;cursor:pointer;display:block;font-size:10px;position:absolute;top:-10px;right:-2px;padding:2px 3px;line-height:13px;min-width:12px;text-align:center;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+
+.wd-jewelcontainer-list{background-color:#fff;border:1px solid #c6c6c6;-moz-box-shadow: 1px 1px 2px #777;-webkit-box-shadow:  1px 1px 2px #777; box-shadow:  1px 1px 2px #777;margin-top:14px;display:none;position:absolute;width:420px;left:-210px;z-index:25}
+.wd-jewelcontainer-list .wd-uparrow{background:url(../img/front/bg-sprite.png) -189px -56px no-repeat;display:block;height:7px;position:absolute;right:186px;top:-7px;width:11px}
+.wd-jewelcontainer-content .wd-topcontent{border-bottom:1px solid #c6c6c6;padding:10px 15px;overflow:hidden}
+.wd-notifiheader-top-right{float:right}
+.wd-jewelcontainer-content .wd-seemore{border-top:1px solid #c6c6c6;display:block;font-size:12px;font-weight:bold;padding:7px 10px;text-align:center;}
+
+.wd-jewelcontainer-content .wd-middlecontent{height:475px;}
+.wd-jewelItemList{list-style: none outside none;margin:0;padding:0}
+.wd-jewelItemList li.wd-jewelItem{border-bottom:1px solid #c6c6c6;padding:8px 28px 8px 15px;position:relative;overflow:hidden}
+.wd-jewelItemList li.wd-jewelItemSelected,.wd-jewelItemList li.wd-jewelItem:hover{background-color:#eff9fe;border-color:#c4e4f5}
+.wd-jewelItemList .wd-jewelMainLink{display:block}
+.wd-jewelItemList .wd-jewelMainLink img.wd-jl{height:50px;width:50px;-moz-border-radius:27px;-webkit-border-radius:27px;border-radius:27px;float:left;margin-right:10px}
+.wd-jewelItemList .wd-jItermContent{overflow:hidden;color:#000}
+.wd-jewelItemList .wd-jItermContent .wd_tt_mn{line-height:16px}
+.wd-jewelItemList .wd-jItermContent .wd_tt_mn span{color:#0088c1}
+.wd-jewelItemList .wd-jewelMainLink:hover{text-decoration:none}
+.wd-jewelItemList .wd-jItermContent .wd-posttime{color:#828282;font-size:11px;overflow:hidden}
+.wd-jewelItemList .wd-jItermContent .wd-posttime .wd-icon-16{float:left;margin-right:5px}
+.wd-jewelItemList .wd-jItermContent img{width:47px;height:47px}
+.wd-jewelItemList .wd-jItermContent .wd-fr-img{background-color:#fff;border:1px solid #c6c6c6;display:block;height:47px;margin:0 2px 0 4px;width:47px;padding:1px;position:relative}
+.wd-jewelItemList .wd-jItermContent .wd-fr-albimg{border:1px solid #e0e0e0;display:block;height:44px;margin:5px 0 0 9px;width:44px;position:absolute}
+
+.wd-jewelItemList li.wd-jewelItem .wd-x-act{background:url(../img/front/bg-sprite.png) no-repeat -403px -46px;cursor:pointer;display:block;height:7px; overflow:hidden;position:absolute;right:14px;text-indent:-1983px;top:13px;width:10px}
+.wd-jewelItemList li.wd-jewelItem .wd-x-act:hover,.wd-jewelItemList li.wd-jewelItem .wd-x-act-checked{background-position:-403px -55px}
+
+.wd-jewelItemList li.wd-jewelItem .wd-form-bt-1{padding:5px 10px}
+.wd-jewelItemList li.wd-jewelItem a.wd-form-bt-1{color:#fff;display:block;float:left;margin-left:3px;padding:4px 12px}
+.wd-jewelItemList li.wd-jewelItem a.wd-friend-bt,.wd-jewelItemList li.wd-jewelItem a.wd-notnow-button{color:#606060;display:block;float:left;margin-left:3px;padding:4px 12px}
+.wd-jewelItemList li.wd-jewelItem a.wd-friend-bt{padding-left:31px}
+.wd-jewelItemList li.wd-jewelItem a.wd-form-bt-1:hover,.wd-jewelItemList li.wd-jewelItem a.wd-friend-bt:hover{text-decoration:none}
+.wd-jewelItemList li.wd-jewelItem .wd-friend-bt-notifi:hover{background-color:#e45826;background-image:none;border-color:#d84c19;color:#fff;padding:4px 15px}
+.wd-jewelItemList li.wd-jewelItem .wd-friend-bt-notifi .wd-text-unfriend,.wd-jewelItemList li.wd-jewelItem .wd-friend-bt-notifi:hover .wd-text-friend{display:none}
+.wd-jewelItemList li.wd-jewelItem .wd-friend-bt-notifi:hover .wd-text-unfriend{display:block}
+/*custome for srcollpane*/
+.wd-jewelcontainer-content .jspPane{padding:0 !important}

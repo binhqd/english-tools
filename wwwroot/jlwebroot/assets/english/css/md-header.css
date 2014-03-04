@@ -1,0 +1,13 @@
+.wd-top-header{background:url(../img/front/bg-md-header.jpg) repeat-x;height:51px;padding-left:24px}
+h1.wd-header-logo{float:left;margin-top:10px;width:170px;}
+#wd-header-search{padding-top:8px;}
+.wd-setting-header,.wd-username-cont,.wd-jewelcontainer{display:inline-block;float:right;}
+.wd-username-cont {border-left:1px solid #cccccd;padding:10px 13px 8px 16px;}
+/* responsive*/
+@media screen and (max-width: 1024px){
+	.wd-md-header{padding-left:14px}
+}
+@media screen and (max-width: 767px){
+	.ptloc{padding-top:0 !important;}
+	#wd-header{position:static;}
+}

@@ -1,0 +1,5 @@
+.wd-user-following-list{list-style: none outside none;margin:0;padding:18px 0 15px;overflow:hidden}
+.wd-user-following-list li{float:left;padding-right:13px}
+.wd-user-following-list li.wd-last-more{background:url(../img/front/bg-sprite-image.png) no-repeat -461px -146px;width:18px;height:3px;padding-right:0;margin-top:25px}
+.wd-user-following-list li img{border:3px solid #799dd9;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:34px;height:34px;}
+.wd-user-following-list li img:hover{border-color:#fff}

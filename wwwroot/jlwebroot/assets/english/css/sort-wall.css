@@ -1,0 +1,9 @@
+.wd-wall{background:url(../img/front/bg-line-2.png) repeat-x left center;padding:0 20px 0 15px;margin-bottom:20px}
+.sort-wall{width:100%}
+.wd-sort-label{background-color:#eee;color:#515151;float:left;font-size:12px;padding:0 5px;z-index:15}
+.sort-wall-text{float:right}
+.sort-wall-text .text{ color: #515151;display: block;float: left; font-size: 12px; font-weight: bold; padding-right:20px; position: relative;}
+.sort-wall-text .wd-setting-streamstory{background-color:#eee;float:right;padding-left:5px;position:relative}
+.sort-wall-text .wd-icon-arrow-4{position:absolute;top:8px;right:5px;}
+.wd-wall .wd-setting-streamstory .wd-setting-stream-content{right:-19px;top:25px;z-index:20}
+.wd-wall .wd-setting-streamstory .wd-setting-stream-content .wd-uparrow-1{right:33px}

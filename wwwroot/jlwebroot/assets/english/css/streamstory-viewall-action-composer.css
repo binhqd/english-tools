@@ -1,0 +1,21 @@
+.wd-streamstory-viewall-action-composer{background-color:#fff;border-bottom:1px solid #cbcbcb;border-right:1px solid #cbcbcb;font-size:12px;-moz-box-shadow: 0 0 3px #ccc;-webkit-box-shadow: 0 0 3px #ccc;box-shadow:0 0 3px #ccc;min-height:165px;padding:16px 16px 10px}
+.wd-streamstory-viewall-action-content{border-bottom:2px solid #e74c00;overflow:hidden;padding-bottom:15px}
+.wd-streamstory-viewall-action-content .wd-photo{float:left;height:101px;margin-right:15px;width:101px}
+.wd-streamstory-viewall-action-content .wd-photo img{height:101px;width:101px}
+.wd-streamstory-viewall-action-right .wd-postdate{color:#575757;font-size:11px;margin-bottom:3px;margin-top:2px}
+.wd-streamstory-viewall-action-right .wd-postcontent{color:#333333;font-size:13px;line-height:17px}
+
+.wd-streamstory-viewall-action-content-more{overflow:hidden;padding-top:7px}
+.wd-streamstory-viewall-action-content-more .wd-statuscontent-left{float:left;list-style: none outside none;margin:0;padding:0;overflow:hidden}
+.wd-streamstory-viewall-action-content-more .wd-statuscontent-left li{float:left;margin-right:20px}
+.wd-streamstory-viewall-action-content-more .wd-statuscontent-left li a{float:left;color:#575757}
+.wd-streamstory-viewall-action-content-more .wd-statuscontent-left li .wd-value{color:#000;display:block;font-size:16px;font-weight:bold}
+.wd-streamstory-viewall-action-content-more .wd-statuscontent-left li .wd-tt{color:#575757;font-size:12px}
+
+.wd-streamstory-viewall-action-content-more .wd-userpost-right{float:right}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-avatar{float:left;height:40px;width:40px;}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-avatar img{border:3px solid #dbdbdb;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:34px;height:34px;}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-avatar:hover img{border-color:#f98b64}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-uerpost-name{float:right;margin-left:10px;line-height:15px;margin-top:3px}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-uerpost-name .wd-tt{color:#7c7c7c;display:block;font-size:11px;}
+.wd-streamstory-viewall-action-content-more .wd-userpost-right .wd-uerpost-name .wd-uername{color:#409ac9;display:block}

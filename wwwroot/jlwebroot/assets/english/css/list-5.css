@@ -1,0 +1,12 @@
+.wd-list-5{list-style: none outside none;margin:0;padding:0;overflow:hidden}
+.wd-list-5 li{width:189px;padding:0 10px 25px 0;font-size:12px;line-height:15px;float:left}
+.wd-list-5 li a.wd-image{float:left;margin-right:10px;width:84px;height:84px}
+.wd-list-5 li .wd-right-list-content{overflow:hidden;height:50px;position:relative;padding-bottom:34px}
+.wd-list-5 li .wd-right-list-content .wd-follow-bt-2{position:absolute;bottom:0;left:0}
+.wd-list-5 li a.wd-name{color:#0088c1}
+.wd-list-5 li a.wd-more{color:#777}
+.wd-list-5 li .wd-icon-following-node-act,.wd-list-5 li .wd-icon-follow-node{position:absolute;top:60px;right:5px}
+/* responsive*/
+@media screen and (max-width: 1024px){
+	.wd-list-5 li{width:188px;}
+}

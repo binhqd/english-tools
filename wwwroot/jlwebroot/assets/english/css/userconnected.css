@@ -1,0 +1,26 @@
+.wd-userconnected {padding-bottom:12px}
+.wd-userconnected .wd-userconnect-ft,.wd-userconnected .wd-userconnect-f,.wd-userconnected .wd-userconnect-m,.wd-userconnected .wd-userconnect-nl,.wd-userconnected .wd-userconnect-l,.wd-userconnected-1 .wd-userconnect-f{position:relative;min-height:44px}
+.wd-userconnected .wd-userconnect-ft img.wd-avatar,.wd-userconnected .wd-userconnect-l img.wd-avatar,.wd-userconnected-1 .wd-userconnect-f img.wd-avatar{border:3px solid #343434;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:34px;height:34px;}
+.wd-userconnected .wd-userconnect-ft img.wd-avatar:hover,.wd-userconnected .wd-userconnect-l img.wd-avatar:hover,.wd-userconnected-1 .wd-userconnect-f img.wd-avatar:hover{border-color:#f98b64}
+.wd-userconnected .wd-userconnect-f img.wd-avatar,.wd-userconnected .wd-userconnect-m img.wd-avatar,.wd-userconnected .wd-userconnect-nl img.wd-avatar,.wd-userconnected-1 .wd-userconnect-f img.wd-avatar{border:2px solid #343434;-moz-border-radius:15px;-webkit-border-radius:15px;border-radius:15px;width:26px;height:26px;}
+.wd-userconnected .wd-userconnect-f img.wd-avatar:hover,.wd-userconnected .wd-userconnect-m img.wd-avatar:hover,.wd-userconnected .wd-userconnect-nl img.wd-avatar:hover,.wd-userconnected-1 .wd-userconnect-f img.wd-avatar:hover{border-color:#f98b64}
+.wd-userconnected .wd-user{float:left}
+.wd-userconnected .wd-name{color: #6E6C6C;float: left; margin-left: 25px; margin-top: 5px;}
+.wd-userconnected .wd-name:hover{color:#fff;text-decoration:none;}
+.wd-userconnected .wd-userconnect-l .wd-name{margin-left:10px;color:#fff;font-weight:bold;margin-top:11px}
+
+.wd-userconnected .wd-userconnect-f{background:url(../img/front/bg-tree-user-1.png) no-repeat 18px 0; height:45px; min-width:140px}
+.wd-userconnected .wd-userconnect-m{background:url(../img/front/bg-tree-user-2.png) no-repeat 18px 0; height:39px; min-width:140px}
+.wd-userconnected .wd-userconnect-nl{background:url(../img/front/bg-tree-user-3.png) no-repeat 18px 0; height:50px; min-width:140px}
+
+.wd-userconnected-1 .wd-userconnect-f{background:url(../img/front/bg-tree-object-node.png) no-repeat 18px 0; height:64px; min-width:140px}
+
+.wd-userconnected .wd-userconnect-ft {overflow:hidden}
+.wd-userconnected .wd-userconnect-ft .wd-user img{float:left;width:34px;height:34px;}
+.wd-userconnected .wd-userconnect-ft .wd-name{color:#fff;font-weight:bold;font-weight:bold;float:left;margin:10px 14px 0 10px}
+.wd-userconnected .wd-userconnect-ft .wd-connectbt{background:url(../img/front/bg-sprite.png) no-repeat -391px -19px;color:#fff; display:block;overflow:hidden;margin-top:11px;font-size:11px;height:17px;text-align:center; width:32px}
+
+.wd-userconnected .wd-userconnectinner-f{position:absolute;left:32px;top:12px}
+.wd-userconnected .wd-userconnectinner-m{position:absolute;left:32px;top:7px}
+.wd-userconnected .wd-userconnectinner-nl{position:absolute;left:32px;top:7px}
+.wd-userconnected .wd-userconnectinner-l{position:absolute;left:55px;top:0}

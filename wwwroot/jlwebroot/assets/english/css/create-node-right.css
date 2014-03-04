@@ -1,0 +1,61 @@
+/* Select Type Block */
+.wd-select-type{float:left;width:281px}
+.wd-addnew-type{float:right;width:36px;position:relative;min-height:36px;z-index:1;}
+
+.wd-addnew-type a.wd-bt-addnew-open{background:url(../img/front/icon-addnew-type-open.png) center center no-repeat}
+.wd-addnew-type .wd-form-addnew{position:absolute;right:0;top:45px;width:304px;padding:8px 10px 12px;border:1px solid #dbdbdb;background-color:#fff;display:none;z-index:20}
+.wd-addnew-type .wd-form-addnew label{color:#4b4b4d}
+.wd-addnew-type .wd-form-addnew input{border:1px solid #85bce6;padding:5px 3%;width:94%;margin-top:5px;font-size:0.95em;color:#616466;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px}
+
+.wd-form-input-infor-opacity{opacity:0.2}
+fieldset.wd-type-list{border-bottom:1px solid #DBDBDB}
+fieldset.wd-input-infor{padding-top:8px}
+fieldset.wd-input-infor-bg{background:url(../img/front/bg-right-content.png) repeat}
+fieldset.wd-input-infor .wd-input{margin-bottom:10px;position:relative;clear:both;}
+fieldset.wd-input-infor .wd-input-100{width:100px}
+fieldset.wd-input-infor .wd-input input{border:1px solid #d6d6d6;font-family:arial;padding:10px 8px;font-size:14px;width:94%;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px}
+fieldset.wd-input-infor .wd-input input:focus{border:1px solid #85bce6}
+
+fieldset.wd-type-list{padding:20px;background:#f7f7f7;margin-left:1px;}
+.wd-form-input-infor{padding:20px 0;}
+.wd-form-input-infor .wd-section .wd-input{padding:0 20px;}
+.wd-input-add-new{position:relative;}
+.wd-input-add-new .wd-add-new-input{position:absolute;top:9px;right:10px;}
+.wd-input-add-new .wd-remove-input{float:right;}
+.fieldset{position:relative;clear:both;border:1px solid #d9d9d9;margin:20px;padding:5px 0;}
+.fieldset .wd-input{text-align:center;}
+.fieldset h3.legend{background:#eeeeee;float:left;padding:5px;margin:-21px 0 0 10px;font-size:14px;color:#595959;font-weight:normal;}
+.fieldset .section{border-bottom:1px solid #cecece;padding:15px 15px 0;margin:0 }
+.fieldset .section .wd-input{padding:0;}
+.icon-add{position:absolute;right:34px;top:10px;}
+.fieldset .icon-add span{margin-right:5px;}
+.fieldset .icon-add{top:-8px;background:#eeeeee;font-size:11px;padding:0 5px;}
+.wd-gender .sbHolder{background:#fff;width:323px;}
+.wd-gender .sbOptions{width:323px;}
+.icon-remove{float:right;font-size:11px;margin-right:3px;}
+.row-control{overflow:hidden;}
+.wd-list-result ul{list-style:none;margin:15px 0 0;padding:0;}
+.wd-list-result ul li{padding:5px 0;}
+.wd-list-result ul li a{color:#;}
+#scrollbar1 .wd-input-infor{height:300px;width:100% !important;}
+.jspContainer{width:100% !important;}
+/* Accordion Right */
+.wd-accordion{position: relative;border-bottom:1px solid #dbdbdb;margin-left:1px;}
+.wd-accordion h3.wd-title-accordion{background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(top,  #ffffff 0%, #f1f1f1 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f1f1f1)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#f1f1f1 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffffff 0%,#f1f1f1 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffffff 0%,#f1f1f1 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ffffff 0%,#f1f1f1 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+padding:8px 20px;margin:0px;position:relative;cursor:pointer;border-top:1px solid #dbdbdb;font-size:14px;color:#616466;line-height:17px}
+.wd-accordion div.wd-para{margin:0;padding:5px 0;position: relative;background-color:#ffffff;border-top:1px solid #dbdbdb}
+.wd-accordion div.wd-para div.wd-child-cont{margin: 0;padding: 0;position: relative}
+.wd-accordion  h3.wd-title-accordion span.wd-toggle-bt-1{float:left;margin-right:10px;}
+.wd-accordion  h3.wd-title-accordion:hover span.wd-arrow,.wd-accordion  h3.wd-title-accordion span.wd-arrow:hover,.wd-accordion  h3.wd-title-accordion span.wd-active-arrow{background:url(../img/front/icon-sprite.png) -36px -64px no-repeat}
+.wd-toggle-bt-1.wd-toggle-bt-active{background-position:-509px -19px;}
+/* UI */
+.ui-widget-content{border:1px solid #D6D6D6 !important;}
+.ui-widget{font-size:12px !important;}
+.ui-autocomplete-create{font-size:12px;margin:6px;}

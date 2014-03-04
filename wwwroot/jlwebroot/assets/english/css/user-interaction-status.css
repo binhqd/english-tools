@@ -1,0 +1,17 @@
+ul.wd-user-interaction-status{list-style: none outside none;margin:0;padding:8px 10px 10px 21px;overflow:hidden}
+.wd-user-interaction-status li{float:left;font-size:12px;padding-right:42px}
+.wd-user-interaction-status li a{color:#7F7F7F;float:left;line-height:16px}
+.wd-user-interaction-status li span{float:left}
+.wd-user-interaction-status li .wd-icon-1{margin-right:10px}
+.wd-user-interaction-status li .wd-name{color:#030303;margin-right:4px;margin-top:5px}
+.wd-user-interaction-status li a:hover .wd-name{text-decoration:underline}
+.wd-user-interaction-status li .wd-value{color:#030303;font-weight:bold;margin-top:5px}
+
+.wd-user-interaction-status li a:hover .wd-icon-friend{background-position:-260px -26px}
+.wd-user-interaction-status li a:hover .wd-icon-follow{background-position:-286px -26px}
+.wd-user-interaction-status li a:hover .wd-icon-contribution{background-position:-312px -26px}
+.wd-user-interaction-status li a:hover .wd-icon-photo{background-position:-338px -26px}
+.wd-user-interaction-status li a:hover .wd-icon-video{background-position:-364px -26px}
+@media screen and (max-width:768px) {
+	ul.wd-user-interaction-status li{padding-right:30px;}
+}

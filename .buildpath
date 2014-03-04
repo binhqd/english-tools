@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".buildpath|.project|.settings/|frameworks/yii/cli/views/|frameworks/yii/console/|frameworks/yii/gii/|frameworks/yii/i18n/data/|frameworks/yii/messages/|frameworks/yii/test/|frameworks/yii/vendors/|frameworks/yii/views/|frameworks/yii/yii.php|frameworks/yii/zii/|jlprotected/commands/|jlprotected/config/|jlprotected/views/|jlruntime/|wwwroot/" kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>

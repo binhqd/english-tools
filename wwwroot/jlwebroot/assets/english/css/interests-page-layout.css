@@ -1,0 +1,47 @@
+/* icon */
+.icon-follow-interest{background:url(../img/front/bg-sprite-interest.png) -244px 0 no-repeat; display:block;height:26px;margin:0 auto;overflow:hidden;text-indent:-1983px;width:26px}
+/* button */
+a.wd-follow-interest-bt{background-color:#e74c00;border:1px solid #c8491b;display:block;color:#fff;font-size:12px;font-weight:bold;overflow:hidden;padding:5px 5px 5px 10px;text-align:center;text-shadow:0px 0px 2px #b73c00; width:90px;-moz-border-radius:3px;-webkit-border-radius:3px; border-radius:3px;}
+a.wd-follow-interest-bt:hover{background-color:#c94301;border-color:#b53d12;text-decoration:none;}
+a.wd-following-interest-bt{background-color:#79bd42;border-color:#5c992b;text-shadow:0px 0px 2px #568e29;padding:5px 10px; }
+
+a.wd-follow-interest-bt .icon-follow-interest{float:left;margin-right:5px;}
+a.wd-follow-interest-bt .text{display:inline-block;*display:inline;*zoom:1;margin-top:4px}
+
+a.wd-following-interest-bt .text-unfollow{display:none}
+a.wd-following-interest-bt:hover{background-color:#ececec;border-color:#e0e0e0;color:#a1a1a1;text-shadow:none;}
+a.wd-following-interest-bt:hover .icon-follow-interest{background-position:-244px -27px}
+a.wd-following-interest-bt:hover .text-following{display:none}
+a.wd-following-interest-bt:hover .text-unfollow{display:inline-block;*display:inline;*zoom:1;}
+/* header*/
+h1.wd-ttlogo-3{text-align:center;padding-top:90px;margin-bottom:30px}
+a.wd-logo-3{background:url(../img/front/bg-sprite-interest.png) 0 0 no-repeat; display:block;height:55px;margin:0 auto;overflow:hidden;text-indent:-1983px;width:240px}
+.wd-sologen-t1{font-size:22px;font-weight:normal;line-height:25px;padding-top:15px;text-align:center}
+.wd-sologen-t1 span.strong{font-weight:bold}
+
+/* content */
+.wd-interest-content{margin:0 auto;padding-top:16px;width:978px}
+.wd-interest-mess-added{font-size:18px;font-weight:bold;line-height:21px;text-align:center}
+.wd-interest-container{padding:40px 0}
+.wd-interests-list{overflow:hidden;list-style:none;margin:0;padding:0 28px}
+.wd-interests-list li{float:left;font-size:14px;margin:11px;padding:10px;width:265px; -moz-border-radius:3px;-webkit-border-radius:3px; border-radius:3px;}
+.wd-interests-list li.wd-interest-item-following{background-color:#fafafa}
+.wd-interests-list li .wd-img-thumb{float:left;margin-right:15px}
+.wd-interests-list li .wd-interest-name,.wd-interests-list li .wd-interest-name a{color:#090909;line-height:16px;font-weight:bold}
+.wd-interests-list li .wd-right-content{overflow:hidden;height:60px}
+.wd-interests-list li .wd-content-button{overflow:hidden;padding-top:2px}
+
+.wd-submit-interest{text-align:center;padding-top:50px}
+.wd-count-choice-follow-interest{background-color:#ddd;border:1px solid #cacaca;clear:both;color:#646464;display:inline-block;*display:inline;*zoom:1;font-size:14px;font-weight:bold; line-height:17px;margin-bottom:16px;padding:12px 24px 8px; -moz-border-radius:4px;-webkit-border-radius:4px; border-radius:4px}
+a.wd-save-continue-bt{background-color:#e74c00;border:1px solid #be3e00;clear:both;color:#fff;display:inline-block;*display:inline;*zoom:1;font-size:14px;font-weight:bold; line-height:17px;margin-bottom:16px;padding:12px 33px 8px;position:relative;text-shadow:0px 0px 2px #b53c01;min-width:224px;text-align:center; -moz-border-radius:4px;-webkit-border-radius:4px; border-radius:4px;}
+a.wd-save-continue-bt:hover{background-color:#d64701;text-decoration:none}
+a.wd-save-continue-bt .wd-icon-arrow{background:url(../img/front/bg-sprite-interest.png) -271px 0 no-repeat; display:block;height:9px;overflow:hidden;position:absolute;right:13px;text-indent:-1983px;top:14px;width:13px;}
+
+/* responsive*/
+@media screen and (max-width: 800px){
+	.wd-interest-content{width:100%}
+	.wd-interests-list li{width:303px}
+}
+@media screen and (max-width: 800px){
+	.wd-interests-list li{width:288px}
+}

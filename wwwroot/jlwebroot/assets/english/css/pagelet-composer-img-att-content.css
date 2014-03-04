@@ -1,0 +1,12 @@
+
+/* post image attachment */
+.wd-pagelet-composer-img-att-content{border:1px dashed #b2b2b2;float:left;padding:7px 5px 0 0;overflow:hidden}
+.wd-pagelet-composer-img-att-content .wd-image-attachment{cursor:default;float:left;margin-bottom:7px;height:41px}
+.wd-pagelet-composer-img-att-content .wd-icon-upload-postcontent{float:left;margin-bottom:7px;}
+.wd-pagelet-composer-img-att-content .wd-list-photopost{float:left;list-style: none outside none;margin:0;padding:0;overflow:hidden}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost{float:left;margin-left:7px;height:41px;margin-bottom:7px;position:relative;width:41px;}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost img{height:41px;width:41px;}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost .wd-remove-photopost{background-color:#f3602c;color:#fff;display:none;cursor:pointer;font-size:12px;line-height:15px;padding:0 4px 2px;position:absolute;right:0}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost:hover .wd-remove-photopost{display:block}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost .wd-remove-photopost:hover{background-color:#fa703f;text-decoration:none}
+.wd-pagelet-composer-img-att-content .wd-list-photopost .wd-itemphotopost .wd-photoload{float:left}

@@ -1,0 +1,40 @@
+.wd-container-landing, .wd-container .wd-center{background:#eeeeee}
+.wd-view-person{float:none;border-bottom:2px solid #E74C00;padding-bottom:15px;}
+.wd-view-person h2.wd_tt_1{padding:15px 0 0 0}
+.wd-view-person h2.wd_tt_1 a{color:#000;}
+.wd-person-img .wd-main-image{width:214px;}
+.wd-gallery-1 li{width:101px;}
+.wd-streamstory-viewall-action-content-more{padding-top:10px;}
+.wd-streamstory-viewall-action-content-more.wd-general-userpost .wd-avatar{width:49px;height:49px;}
+.wd-streamstory-viewall-action-content-more.wd-general-userpost .wd-avatar img{border-radius:30px;width:42px;height:42px;}
+.wd-streamstory-viewall-action-content-more.wd-general-userpost .wd-uerpost-name{margin-top:8px;}
+.wd-streamstory-viewall-action-content-more.wd-general-userpost .wd-statuscontent-left{margin:9px 0;}
+.wd-icon-follow-2{float:right;}
+.wd-topleft-person .wd-person-img{padding-top:0;}
+.wd-view-all-list-celebrities{list-style:none;margin:0;padding:0 20px;opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0);}
+.wd-item-celebrities{float:left;}
+.wd-viewallobjn-topsearch-form{padding:20px;}
+.wd-search-activities-filter{float:left;width:474px;}
+.wd-streamstory-lo2-item{width:100%;}
+.wd-list-peoples-interacted{margin-top:12px;}
+/* fix bug IE7 in ie7.css file */
+.wd-follow-green{border-bottom-color:#79ba42}
+@media screen and (max-width:1095px) {
+	.wd-left-content{padding:0 10px 20px 10px;}
+}
+/*@media screen and (max-width:1440px) {
+	.wd-viewallobjn-topsearch-form{padding-right:53px}
+}
+@media screen and (max-width:1280px) {
+	.wd-viewallobjn-topsearch-form{padding-right:20px}
+}*/
+@media screen and (max-width:1024px) {
+	.wd-search-activities-filter{width:444px;}
+	.wd-left-content{padding-left:0;width:454px;}
+	.wd-left-block-ce .wd-topleft-person{padding:15px 7px;}
+	/*.wd-viewallobjn-topsearch-form{padding-right:30px !important}*/
+}
+@media screen and (max-width:768px) {
+	.wd-search-activities-filter{width:407px;}
+	/*.wd-viewallobjn-topsearch-form{padding-right:10px !important}*/
+}

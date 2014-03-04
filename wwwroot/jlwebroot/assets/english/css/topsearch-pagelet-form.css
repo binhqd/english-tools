@@ -1,0 +1,11 @@
+.wd-input-search{background-color:#fff;border-bottom:1px solid #d9d9d9;border-right:1px solid #d9d9d9; overflow:hidden;padding:8px 14px 9px 20px;-moz-border-radius:4px;-webkit-border-radius: 4px;border-radius:4px;box-shadow: 1px 1px 2px #ccc;}
+.wd-input-search input,.wd-input-search input:focus{border: 0 none #fff}
+.wd-input-search input.wd-text-search{font-size:14px;color:#000;width:195px;padding-top:1px;float:left}
+.wd-input-search input.wd-submit{background:url(../img/front/bg-sprite.png) no-repeat -207px -41px #fff;width:20px;height:20px;font-size:0;cursor:pointer;float:right}
+.wd-input-search-focus input.wd-submit,.wd-input-search input.wd-submit:hover{background-position:-230px -41px;}
+@media screen and (min-width: 1130px) and (max-width: 1224px){
+	.wd-input-search input.wd-text-search{width:115px}
+}
+@media screen and (min-width: 1024px) and (max-width: 1130px){
+	.wd-pagelet-stream-form .wd-topsearch-pagelet-form{float:left;margin-top:10px}
+}

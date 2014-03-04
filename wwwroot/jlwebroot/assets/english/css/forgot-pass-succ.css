@@ -1,0 +1,12 @@
+.wd-succes-mess{padding:40px 40px 50px;font-size:16px;line-height:19px}
+.wd-succes-mess p.wd-mail{font-weight:bold;margin-top:10px;margin-bottom:20px}
+.wd-succes-mess p.wd-mail a{color:#028ac9}
+.wd-succes-mess .wd-submit{padding:25px 0 20px;overflow:hidden}
+.wd-succes-mess div.wd-submit .wd-or{color:#424242}
+.wd-succes-mess .wd_tt_n3{padding-bottom:30px}
+.wd-succes-mess .wd-instruction{font-size:14px;}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	.wd-succes-mess div.wd-submit .wd-or,.wd-succes-mess div.wd-submit .wd-link{margin-top:17px;}
+}
+
+.wd-succes-mess .wd-icon-check{float:right}

@@ -1,0 +1,12 @@
+.wd-username-cont{*display:inline;*zoom:1}
+input[type="reset"],input[type="button"], button[type="submit"],input[type="submit"]{filter:chroma(color=#000000);outline:none;}
+/* fix for landingpage */
+.wd-view-all-list-celebrities li.wd-item-celebrities{float:left;width:222px}
+/* view all photo */
+.wd-view-all-photo li{width:210px;float:left;}
+/* login form*/
+fieldset.wd-main-form-2 div.wd-remember input[type="checkbox"]{margin-top:0}
+fieldset.wd-main-form-2 .btn-continue,fieldset.wd-main-form-2 .btn-signup{padding:7px 15px 5px}
+
+/* upload avatr button  profile */
+.wd-uploadavatar-bt input{left:0}

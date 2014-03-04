@@ -1,0 +1,14 @@
+.wd-orange-actmore-bt{position:relative;}
+.wd-orange-actmore-bt .wd-addfriend-bt,.wd-orange-actmore-bt .wd-dropdow-slmbt{background-color:#e45826;border:1px solid #d84c19;display:block;color:#fff;font-size:12px;font-weight:bold;text-shadow: 1px 1px 2px rgba(150, 154, 184, 1);float:left;cursor:pointer;}
+.wd-dropdow-slmbt .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -189px -48px;display:block;height:7px;width:10px}
+.wd-orange-actmore-bt .wd-addfriend-bt{border-right-color:#ea7d56;padding:8px 10px;-moz-border-radius:3px 0 0 3px;-webkit-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px;}
+.wd-orange-actmore-bt .wd-addfriend-bt:hover{background-color:#eb4003;border-color:#ce3600;border-right-color:#ea7d56}
+.wd-orange-actmore-bt .wd-dropdow-slmbt{padding:16px 12px 11px;-moz-border-radius:0 3px 3px 0;-webkit-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0;}
+.wd-orange-actmore-bt .wd-dropdow-slmbt:hover,.wd-orange-actmore-bt .wd-toggle-bt-active{background-color:#eb4003;border-color:#ce3600;}
+
+.wd-orange-actmore-bt .wd-actmore-user-toggle{background-color:#fff;display:none;border:1px solid #c7c7c7;position:absolute;top:42px;right:0;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-moz-box-shadow: 0 0 2px #ccc;-webkit-box-shadow: 0 0 2px #ccc; box-shadow: 0 0 2px #ccc;}
+.wd-orange-actmore-bt .wd-actmore-user-toggle .wd-uparrow-1{background:url(../img/front/bg-sprite.png) -189px -56px no-repeat; display:block;position:absolute;top:-7px;right:12px;height:7px;width:11px}
+
+.wd-orange-actmore-bt .wd-actmore-user-toggle ul{list-style: none outside none;margin:0;padding:5px 0;}
+.wd-orange-actmore-bt .wd-actmore-user-toggle ul li a{color:#3b3b3b;display:block;padding:5px 16px;font-size:12px;min-width:105px}
+.wd-orange-actmore-bt .wd-actmore-user-toggle ul li a:hover{background-color:#e7e7e7;text-decoration:none}

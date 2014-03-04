@@ -1,0 +1,56 @@
+body, html{height:100%;}
+.wd-wrapper{font-size:12px;min-height:100%;margin-bottom:-73px}
+.wd-wrapper .wd-center{margin:0 auto}
+.wd-container{background:url(../img/front/bg-layout-1.png) repeat-y right 0 #eeeeee}
+.wd-container .wd-center{background:url(../img/front/bg-layout-2.png) repeat-y 0 0 ;overflow:hidden}
+.wd-container .wd-center-content-layout2{background:url(../img/front/bg-layout-2-r.png) repeat-y right 0 #fff;}
+.wd-container .wd-center-content-layout3{background:none}
+.wd-container .wd-center-content-layout4{background:url(../img/front/bg-layout-3.png) repeat-y right 0 #fff;}
+
+.wd-contain-content{overflow:hidden;position:relative;}
+.wd-contain-content-mr{margin-right:248px}
+
+.wd-main-content{overflow:hidden;min-height:650px}
+.wd-main-content-ml{margin-left:444px}
+#wd-header{position:fixed;top:0;width:100%;left:0;z-index:20}
+
+/*.wd-bottom-header{padding-top:89px}*/
+/*.wd-headline{background:url(../img/front/bg-headline.png) repeat;height:43px} v1*/
+.wd-headline{background-color:#efefef;border-bottom:1px solid #cecece;height:43px}
+/* right content*/
+.wd-right-content{float:right;width:248px;padding-bottom:42px;right:0}
+.wd-right-block{border-bottom:1px solid #303030;padding:15px 26px 0}
+/* left content */
+.wd-left-content{float:left;width:444px;font-size:13px;left:0}
+.wd-left-block{border-bottom:1px solid #cecece;padding:15px 22px 15px 24px}
+.wd-follow-block{padding:15px 0 10px}
+.wd-left-block-content-toggle{display:none}
+/*main*/
+.wd-top-pagelet{padding:13px 19px 9px}
+.wd-pagelet-stream-form{padding-bottom:15px}
+.wd-pagelet-stream-form .wd-search-activities{float:left}
+.wd-pagelet-stream-form .wd-topsearch-pagelet-form{float:right;}
+/*right of main content*/
+.wd-right-main-content{float:right;width:282px;}
+
+/* article detail page*/
+.wd-article-detail-content{padding:26px 24px}
+.wd-article-entry{font-size:14px;line-height:21px;margin-bottom:10px}
+.wd-article-entry p{padding-bottom:16px}
+.wd-article-entry img{margin:0 auto; text-align:center}
+.wd-article-entry .image{text-align:center;margin:15px 0 20px}
+.wd-article-detail-content .wd-pp-share-info,.wd-article-detail-content .wd-pp-like-content{float:right;margin-left:17px;margin-top:11px}
+/* fix footer */
+#wd-push{height:73px;}
+@media screen and (max-width:1024px){
+	.wd-contain-content-mr{margin-right:0}
+	.wd-main-content-ml{margin-left:408px}
+}
+@media screen and (max-width:920px){
+	.wd-pagelet-stream-form .wd-topsearch-pagelet-form{float:left;margin-top:14px;}
+}
+@media screen and (max-width:768px){
+	/*.wd-left-content{display:none;}*/
+	/*.wd-container .wd-center{background:#eeeeee;}*/
+	.wd-wrapper{width:768px;}
+}

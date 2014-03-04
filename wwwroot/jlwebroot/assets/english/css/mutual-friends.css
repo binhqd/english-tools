@@ -1,0 +1,8 @@
+.wd-mutual-friends{overfloW:hidden}
+.wd-mutual-friends .wd-intro{padding-bottom:16px}
+.wd-mutual-friend-list-1{list-style: none outside none;margin:0;padding:0;float:left}
+.wd-mutual-friend-list-1 li{float:left;padding-right:10px}
+.wd-mutual-friend-list-1 li img{-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:40px;height:40px;}
+.wd-mutual-friend-list-1 li img:hover{border-color:#f98b64}
+.wd-mutual-friends .wd-count-mf{color:#7b7b7b;overflow:hidden;margin-top:10px}
+.wd-mutual-friends .wd-count-mf a{color:#7b7b7b;}

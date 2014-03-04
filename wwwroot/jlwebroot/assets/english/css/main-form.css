@@ -1,0 +1,97 @@
+fieldset.wd-main-form{padding:0}
+fieldset.wd-main-form div.wd-input,fieldset.wd-main-form div.wd-remember{padding-top:10px;clear:both}
+
+fieldset.wd-main-form div.wd-input input[type="text"],fieldset.wd-main-form div.wd-input input[type="password"],fieldset.wd-main-form div.wd-input select{float:left;width:568px;padding:10px 15px;border:1px solid #ccc;background-color:#fff; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+fieldset.wd-forgot-pass-form div.wd-input input[type="text"]{width:450px}
+fieldset.wd-main-form div.wd-input select{width:245px;padding:10px 8px 10px 15px; }
+fieldset.wd-main-form div.wd-input input[type="password"]:focus,fieldset.wd-main-form div.wd-input input[type="text"]:focus,fieldset.wd-main-form div.wd-input select:focus{border-color:#2e8cf2;}
+fieldset.wd-main-form div.wd-input label{color:#333;float:left;font-size:16px}
+fieldset.wd-main-form div.hide-label label{display:none}
+fieldset.wd-main-form div.wd-remember .checker{float:left}
+fieldset.wd-main-form div.wd-remember label{color:#333;float:left;font-size:12px;}
+
+fieldset.wd-main-form div.wd-submit{padding-top:20px;clear:both;overflow:hidden}
+fieldset.wd-main-form div.wd-submit .btn-primary,fieldset.wd-main-form .btn-continue{background-color:#e45826;border:1px solid #ab3309;color:#fff;float:left;font-size:20px;font-weight:bold; padding:12px 45px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:2px 2px 2px #bc4920;margin-right:10px;cursor:pointer}
+
+.wd-popup-content fieldset.wd-main-form div.wd-submit{background-color:#eee;border:1px solid #d6d6d6;clear:both;overflow:hidden;padding:5px;}
+.wd-popup-content fieldset.wd-main-form div.wd-submit .btn-primary,fieldset.wd-main-form .btn-continue{background-color:#e45826;border:1px solid #ab3309;color:#fff;float:right;font-size:12px;font-weight:bold; padding:7px 20px;-moz-border-radius:3px;-webkit-border-radius:3px; border-radius:3px;text-shadow:2px 2px 2px #bc4920;margin-right:10px;cursor:pointer}
+
+fieldset.wd-main-form div.wd-submit .btn-primary:hover,fieldset.wd-main-form .btn-continue:hover{background-color:#ce4413;}
+fieldset.wd-main-form div.wd-submit .btn-primary-2{padding:12px 20px}
+
+fieldset.wd-main-form div.wd-submit .btn-skip{background-color:#b9b9b9;border:1px solid #aaaaaa;color:#fff;float:left;font-size:20px;font-weight:bold; padding:12px 45px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:2px 2px 2px #918f8f;margin-right:20px;cursor:pointer}
+fieldset.wd-main-form div.wd-submit .btn-skip:hover{background-color:#a5a5a5}
+
+fieldset.wd-main-form div.wd-submit .btn-signup{background-color:#79bd42;border:1px solid #5c992b;color:#fff;float:left;font-size:20px;font-weight:bold;margin-right:10px; padding:12px 30px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:2px 2px 2px #538e23;cursor:pointer}
+fieldset.wd-main-form div.wd-submit .btn-signup:hover{background-color:#6bb033;}
+
+fieldset.wd-main-form div.wd-submit .wd-forgot-pass{float:left;font-size:16px;margin-top:17px;}
+fieldset.wd-main-form div.wd-submit .wd-comeback{color:#4c4c4c;float:left;margin-top:17px;font-size:16px}
+fieldset.wd-main-form div.wd-submit .wd-comeback .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -548px -77px;display:inline-block;*display:block;*zoom:0;float:left;margin-top:5px;margin-right:7px;height:5px;overflow:hidden;text-indent:;width:3px;}
+
+.wd-login-more{padding:30px 40px}
+.wd-login-more .wd-sigin-facebook{display:inline-block;background-color:#48649f;border:1px solid #3d4e7e;color:#fff;font-size:17px;font-weight:bold; padding:12px ;text-align:center;width:251px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:2px 2px 2px #395286;text-transform:uppercase}
+.wd-login-more .wd-sigin-facebook:hover{background-color:#3c5790;text-decoration:none}
+
+.help-block{color:#e30000;display:none;font-size:12px;padding-top:5px;clear:both}
+.error{display:block}
+fieldset.wd-main-form div.wd-input input.error{border-color:#f00000}
+fieldset.wd-main-form .wd-note-form{clear:both;color:#555;font-size:12px;padding-top:20px;line-height:18px}
+fieldset.wd-main-form .wd-note-form a{color:#000}
+
+fieldset.wd-main-form div.wd-submit .wd-or,fieldset.wd-main-form div.wd-submit .wd-cancel,fieldset.wd-main-form div.wd-submit .wd-link{color:#0086c4;float:left;font-size:18px;margin-right:5px;margin-top:17px;font-weight:100}
+fieldset.wd-main-form div.wd-submit .wd-or{color:#424242}
+
+.wd-popup-content fieldset.wd-main-form div.wd-submit .wd-cancel{background-color:#a6a6a6;border:1px solid #989898;color:#fff;display:block; float:right;font-size:12px; margin-top:0;margin-right:5px;font-weight:bold; padding:5px 20px;-moz-border-radius:3px;-webkit-border-radius:3px; border-radius:3px;}
+.wd-popup-content fieldset.wd-main-form div.wd-submit .wd-cancel:hover{background-color:#a09f9f;text-decoration:none}
+/* change password */
+.wd-change-pass-form{padding:0;}
+.wd-change-pass-form .wd-input input{width:468px !important;}
+.wd-change-pass-form .wd-customiz-content-form,.wd-customiz-content-form{overflow:hidden;padding: 20px}
+
+/* sign in */
+.wd-popup-content fieldset.wd-main-form-2 div.wd-submit{background-color:transparent;border:none;clear:both;overflow:hidden;padding:10px 0 0 0;}
+.wd-popup-content fieldset.wd-main-form-2 div.wd-submit .btn-primary,fieldset.wd-main-form-2 .btn-continue{float:left}
+.wd-popup-content fieldset.wd-main-form-2 div.wd-submit .wd-forgot-pass{margin-top:5px}
+
+fieldset.wd-main-form-2 {padding:35px 38px 15px 40px }
+fieldset.wd-main-form-2 div.wd-input input[type="text"], fieldset.wd-main-form-2 div.wd-input input[type="password"], fieldset.wd-main-form-2 div.wd-input select{width:250px}
+fieldset.wd-main-form-2 div.wd-remember input[type="checkbox"]{float:left;margin-right:10px;margin-top:3px;outline:none;padding-left:0;margin-left:0;width:15px;}
+fieldset.wd-main-form-2 div.wd-submit{padding-top:15px;padding-bottom:15px}
+
+fieldset.wd-main-form-2 .btn-continue{background-color:#fa7548;border:1px solid #c8491b;color:#fff;float:left;font-size:14px;font-weight:bold; padding:9px 35px 11px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:none;margin-right:10px;cursor:pointer;text-transform:uppercase}
+fieldset.wd-main-form-2 .btn-continue:hover{background-color:#db5224;border-color:#ab3309}
+fieldset.wd-main-form-2 .btn-continue-2{padding:9px 30px 11px;}
+fieldset.wd-main-form-2 div.wd-submit .btn-signup{background-color:#78bc41;border:1px solid #5f9f27;color:#fff;float:left;font-size:14px;font-weight:bold; padding:9px 26px 11px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:none;margin-right:10px;cursor:pointer;text-transform:uppercase}
+fieldset.wd-main-form-2 div.wd-submit .btn-signup:hover{background-color:#65a630;border-color: #54921d;}
+
+fieldset.wd-main-form-2 div.wd-submit .wd-or, fieldset.wd-main-form-2 div.wd-submit .wd-cancel, fieldset.wd-main-form-2 div.wd-submit .wd-link{font-size:12px;margin-top:10px}
+fieldset.wd-main-form-2 div.wd-submit .wd-link{font-weight:bold}
+fieldset.wd-main-form-2 .wd-forgot-pass-link{background: url("../img/front/bg-sprite.png") no-repeat scroll -595px -148px transparent;clear:both;float:left;margin-top:20px;padding-left:12px;width:270px}
+fieldset.wd-main-form-2 div.wd-input select{width:283px;padding:9px 8px 9px 12px}
+fieldset.wd-main-form-2 div.wd-input select option{padding:3px 10px; font-weight:normal;}
+fieldset.wd-main-form-2 div.wd-select-country select option{width:243px}
+fieldset.wd-main-form-2 .wd-input-child{float:left;}
+fieldset.wd-main-form-2 .wd-input-w1{width:113px;padding-right:10px}
+fieldset.wd-main-form-2 .wd-input-w2{width:71px;margin-right:10px}
+fieldset.wd-main-form-2 .wd-input-w3{width:78px;}
+fieldset.wd-main-form-2 div.wd-input .wd-input-w1 select{width:114px}
+fieldset.wd-main-form-2 div.wd-input .wd-input-w2 select{width:71px;padding-left:12px}
+fieldset.wd-main-form-2 div.wd-input .wd-input-w3 select{width:78px;padding-left:12px}
+
+.wd-form-content{background-color:#fff;width:100%;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;}
+.wd-form-setpass-content{margin:60px auto 0;width:502px;}
+.wd-form-setpass-content .wd-dis{padding-bottom:5px}
+.wd-form-content .wd-dis span.wd-text-red{color:#EF0000}
+.wd-form-setpass-content fieldset.wd-main-form-2 div.wd-input input[type="text"],.wd-form-setpass-content fieldset.wd-main-form-2 div.wd-input input[type="password"]{width:390px}
+.wd-form-setpass-content fieldset.wd-main-form-2{padding:35px 38px 30px 40px}
+
+.wd-popup-content fieldset.wd-signin-form,.wd-popup-content fieldset.wd-signup-form {padding:15px 25px 0}
+.wd-popup-content fieldset.wd-signin-form div.wd-submit,.wd-popup-content fieldset.wd-signup-form div.wd-submit{background-color:#fff;border:0;clear:both;overflow:hidden;padding:10px 0 15px;}
+.wd-popup-content fieldset.wd-signin-form div.wd-submit .btn-primary,fieldset.wd-signin-form .btn-continue,.wd-popup-content fieldset.wd-signup-form div.wd-submit .btn-primary,fieldset.wd-signup-form .btn-continue{float:left;font-size:20px;font-weight:bold; padding:10px 45px;}
+.wd-popup-content div.wd-login-more{text-align:center}
+.wd-popup-content .wd-succes-mess{overflow:hidden;padding:15px 25px;}
+/* fix for chrome */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	fieldset.wd-main-form div.wd-submit .wd-or,fieldset.wd-main-form div.wd-submit .wd-cancel,fieldset.wd-main-form div.wd-submit .wd-forgot-pass,fieldset.wd-main-form div.wd-submit .wd-link{margin-top:12px}
+}

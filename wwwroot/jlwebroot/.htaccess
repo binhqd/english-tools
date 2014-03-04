@@ -1,0 +1,40 @@
+php_value memory_limit 512M
+Options +FollowSymLinks
+
+AuthUserFile .htpasswd
+AuthType Basic
+AuthName "Enter password"
+Require valid-user
+SetEnvIf User-Agent ^Amazon Cloudfront$ allow
+SetEnvIf Host cloudfront.net allow
+SetEnvIf Host localhost.com allow
+Order allow,deny
+Allow from env=allow
+Satisfy any
+
+RewriteEngine On
+
+#RewriteRule (.*) rewrite.php?ug=%{HTTP_USER_AGENT} [L]
+
+#RewriteRule socket.io/(.*) /notification/socket.io/$1 [QSA,L]
+
+#Setup errors documents
+ErrorDocument 403 /error-docs/403.shtml
+
+#RewriteCond %{HTTP_USER_AGENT} ^Mozilla/4\.[0-9]+\ \(compatible;\ MSIE\ [0-9.]+
+#RewriteRule .* - [R=403,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule PIE\.htc justlook/css/PIE\.htc [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ([\w\-\/_\.]+)(\.png|\.jpg|\.gif|\.css|\.js) assets/file-not-found.php?name=$1$2&referrer=%{HTTP_REFERER} [QSA,L]
+
+RewriteRule ^dashboard[\/]{0,1}$ dashboard/review [QSA,L]
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+RewriteRule ^.*$ index.php [NC,L]

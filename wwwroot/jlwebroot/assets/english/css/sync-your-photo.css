@@ -1,0 +1,21 @@
+.wd-main-image .wd-uploadphoto-bt{padding:83px;}
+.wd-uploadphoto-bt{padding:32px;width:24px;height:24px;}
+.wd-uploadphoto-bt .wd-icon{background-position:-368px -135px;width:24px;height:24px;}
+.wd-sync-your-photo{padding:25px 30px 35px;border-bottom:1px solid #ccc;}
+.wd-sync-your-photo h3{font-size:20px;margin-bottom:18px;}
+.wd-sync-your-photo p{font-size:14px;}
+.wd-sync-your-photo p.wd-img{text-align:center;margin-top:18px;}
+.wd-icon-refresh{padding:10px 0 !important;background:url(../img/front/bg-dot-2.png) repeat-x 0 center;text-align:center;}
+.wd-icon-refresh img{background:#eeeeee;padding:0 10px;}
+.wd-get-started, .wd-syncing-photo, .wd-successful-progress, .wd-last-update{text-align:center;padding:10px 0;}
+a.wd-button{text-align:center;display:inline-block;padding:8px 20px;background-color:#e45826;border:1px solid #d84d1a;border-radius:3px;font-size:13px;color:#fff;font-weight:bold;text-shadow:1px 1px 1px #c34315}
+a.wd-button:hover{background-color:#d95b2e;text-decoration:none;}
+.wd-syncing-photo p, .wd-successful-progress p{font-size:20px;text-align:center;color:#373737;}
+.wd-syncing-photo p span, .wd-successful-progress p{color:#58a61a;}
+.wd-successful-progress{text-align:center;}
+.wd-successful-progress p{font-weight:bold;}
+a.wd-arrow-link{background:url(../img/front/arrow-link.png) no-repeat 0 center;padding-left:15px;font-size:14px;color:#000;font-weight:bold;margin-top:10px;display:inline-block;}
+.wd-last-update{text-align:center}
+.wd-last-update p{color:#6f6f6f;padding-top:15px;}
+.wd-last-update p strong{font-size:20px;color:#474747;}
+.wd-last-update a{margin-top:15px;}

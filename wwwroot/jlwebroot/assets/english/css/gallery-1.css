@@ -1,0 +1,10 @@
+.wd-gallery-1{list-style: none outside none;margin:0;padding:0;overflow:hidden}
+.wd-gallery-1 li{float:left;width:91px}
+.wd-gallery-1 .wd-mlb-img{margin-left:10px;margin-bottom:12px;}
+.wd-gallery-1 .wd-ml-img{margin-left:10px;}
+.wd-gallery-1 li a.wd-thumb-img{float:left;line-height:0;}
+.wd-gallery-1 li img{width:100%}
+/* responsive*/
+@media screen and (max-width: 1024px){
+	/*.wd-gallery-1 li{width:83px}*/
+}

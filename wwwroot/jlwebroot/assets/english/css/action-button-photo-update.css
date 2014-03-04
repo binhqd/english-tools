@@ -1,0 +1,10 @@
+.wd-act-button-photo-update{float:right;padding:7px 25px 7px 6px;}
+.wd-act-button-photo-update a{padding:6px 18px;color:#fff;border-radius:3px;font-weight:bold;font-size:12px;margin-left:5px;display:inline-block;}
+.wd-act-button-photo-update a:hover{text-decoration:none}
+.wd-act-button-photo-update a.wd-bt-add-photo{background-color:#79bd44;border:1px solid #5b992c;}
+.wd-act-button-photo-update a.wd-bt-add-photo:hover{background-color:#64a92d}
+.wd-act-button-photo-update a.wd-bt-add-photo .wd-icon-add-photo{float:left;margin:2px 5px 0 0;}
+.wd-act-button-photo-update a.wd-bt-done-upload{background-color:#e45825;border:1px solid #d94d1a}
+.wd-act-button-photo-update a.wd-bt-done-upload:hover{background-color:#cf4717}
+.wd-act-button-photo-update a.wd-bt-cancel{background-color:#acacac;border:1px solid #a3a3a3}
+.wd-act-button-photo-update a.wd-bt-cancel:hover{background-color:#939292}

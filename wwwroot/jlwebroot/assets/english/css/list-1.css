@@ -1,0 +1,10 @@
+.wd-list-1{list-style: none outside none;margin:0;padding:0}
+.wd-list-1 li{padding-bottom:20px;overflow:hidden}
+.wd-list-1 li .wd-avatar{float:left;margin-right:13px}
+.wd-list-1 li a:hover{cursor:pointer}
+.wd-list-1 li .wd-avatar img{border:3px solid #343434;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:34px;height:34px;}
+.wd-list-1 li .wd-avatar:hover img{border-color:#f98b64}
+.wd-user-ct{overflow:hidden}
+.wd-user-ct a{display:block}
+.wd-user-ct .wd-dismore{color:#7c7c7c}
+.wd-user-ct a:hover{color:#fff;text-decoration:none}

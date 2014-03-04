@@ -1,0 +1,19 @@
+.wd-headmain-photo-top{background-color:#fff;border-bottom:1px solid #cecece;padding-left:24px}
+.wd-headmain-photo-top .wd-photo-tabs{list-style:none;margin:0 0 -1px;padding:15px 0 12px;}
+.wd-headmain-photo-top .wd-photo-tabs li{display:inline-block;*display:inline;*zoom:1;margin-right:20px;font-size:12px;font-weight:bold;position:relative}
+.wd-photo-tabs li a{color:#0088c2}
+.wd-photo-tabs li.wd-active a,.wd-photo-tabs li a:hover{color:#000}
+.wd-photo-tabs li span.wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -366px -183px;bottom:-14px;display:none;left:40%;height:7px;position:absolute;width:11px;}
+.wd-photo-tabs li.wd-active span.wd-arrow{display:block}
+
+.wd-add-photo-update{border-bottom:1px solid #cecece;overflow:hidden;padding:11px 24px 3px}
+.wd-add-photo-update .wd-uploadphoto-bt{padding:22px;}
+.wd-add-photo-update .wd-pagelet-composer-photopost-content{background-color:transparent;border-top:0 none;overflow:hidden;padding:0}
+.wd-add-photo-update .wd-pagelet-composer-title-inputbox{border:1px solid #d7d7d7;float:left;margin-right:14px;width:374px}
+.wd-add-photo-update.wd-pagelet-composer-mainform .wd-pagelet-composer-title-inputbox textarea{height:35px;font-weight:normal}
+.wd-add-photo-update .wd-pagelet-composer-photopost-content .wd-uploadphoto-bt{margin:0 7px 7px 0}
+
+.wd-add-photo-update .wd-pagelet-albumphoto-view{background-color:transparent;border:none;float:none;width:385px;margin:0 auto;overflow:hidden;text-align:center}
+.wd-pagelet-albumphoto-view .mzPhotoAlbumTitle{line-height:25px}
+.wd-pagelet-albumphoto-view .wd-posttime-albumphoto-hd{color:#5f5f5f;padding-bottom:5px}
+.wd-add-photo-update .wd-pagelet-albumphoto-view .wd-pagelet-composer-title-inputbox{margin-right:0;float:none;margin: 0 auto;width:340px}

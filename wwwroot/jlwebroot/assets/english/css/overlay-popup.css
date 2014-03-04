@@ -1,0 +1,8 @@
+/* popup control*/
+.wd-web-dialog-overlay {background: url(../img/front/bg-overlay.png) repeat; bottom: 0;display: none;height: 100%;left: 0;margin: 0;padding: 0; position: fixed;right: 0; top: 0; width: 100%; z-index: 101;height:100%;}
+
+#wd-popup_statistics{display:none;position:absolute;z-index:109;height:100%;width:982px;top:40px;margin-left:-491px;left:50%}
+#wd-btnClose{position:absolute; top:11px; right:11px; background:url(../img/front/bg-sprite.png) no-repeat -341px -191px;display:block; height:9px; text-indent:-9999px; width:9px;z-index:20}
+#wd-btnClose:hover{background-position:-380px -195px}
+
+.wd-btnScrollTop{display:none;position:fixed; bottom:45px; right:65px; background:url(../img/front/bg-sprite.png) no-repeat -499px -162px; width:40px; height:40px; text-indent:-9999px;}

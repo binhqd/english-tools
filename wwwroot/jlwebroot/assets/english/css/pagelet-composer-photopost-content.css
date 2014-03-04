@@ -1,0 +1,14 @@
+/*upload photo */
+.wd-pagelet-composer-img-att-content{border:1px dashed #b2b2b2;padding:7px 5px 0;overflow:hidden}
+.wd-pagelet-composer-photopost-content { background-color: #FFFFFF;padding:8px 9px 0 10px;}
+.wd-pagelet-composer-photopost-content .wd-uploadphoto-bt,.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading,.wd-pagelet-composer-photopost-content .wd-pageletphoto-upload-completed{float:left;margin-bottom:7px;margin-right:7px;}
+.wd-pagelet-composer-photopost-content .wd-uploadphoto-bt{margin:0 7px 6px 0}
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading,.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading .wd-photo-ul1,.wd-pagelet-composer-photopost-content .wd-pageletphoto-upload-completed,.wd-pagelet-composer-photopost-content .wd-pageletphoto-upload-completed .wd-photo-ul1{height:60px;width:60px}
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-upload-completed,.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading{position:relative}
+.wd-pagelet-composer-photopost-content .wd-remove-photopost{background-color:#f3602c;color:#fff;cursor:pointer;display:none;font-size:12px;line-height:15px;padding:0 6px 2px;position:absolute; right:0;top:0}
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-upload-completed:hover .wd-remove-photopost,.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading:hover .wd-remove-photopost{display:block}
+.wd-pagelet-composer-photopost-content .wd-remove-photopost:hover{background-color:#fa703f;text-decoration:none}
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading .wd-photo-ul1{background-color:#fff;opacity:0.25;filter:alpha(opacity=25);}
+
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading .wd-processing{background-color:#fff;height:6px;width:44px;position:absolute;bottom:7px;left:6px}
+.wd-pagelet-composer-photopost-content .wd-pageletphoto-uploading .wd-processing .wd-processing-line{background-color:#f1612d;width:60%;height:6px}

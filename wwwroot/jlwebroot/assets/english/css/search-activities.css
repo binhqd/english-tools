@@ -1,0 +1,20 @@
+.wd-search-activities{position:relative;width:198px}
+a.wd-activities-bt{background-color:#fff;display:block;overflow:hidden;color:#575757;padding:10px 16px 9px 20px;width:160px;font-size:14px;border-bottom:1px solid #d9d9d9;border-right:1px solid #d9d9d9;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;box-shadow: 1px 1px 2px #ccc;}
+a.wd-activities-bt:hover{text-decoration:none}
+a.wd-activities-bt .wd-arrow{float:right;background:url(../img/front/bg-sprite.png) -178px -53px no-repeat;height:14px;width:9px;overflow:hidden;text-indent:-1983px;margin-top:2px}
+.wd-search-activities a.wd-toggle-bt-active .wd-arrow{background-position:-178px -39px}
+
+.wd-search-activities-toggle{background-color:#fff;display:none;position:absolute;left:0;padding:5px 10px 9px 13px;width:173px;border-bottom:1px solid #d9d9d9;border-right:1px solid #d9d9d9;-moz-border-radius:0 0 4px 4px;-webkit-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px;box-shadow: 1px 1px 2px #ccc;top:36px;z-index:10}
+.wd-search-activities-content{height:116px;}
+.wd-search-activities-toggle ul{list-style: none outside none;margin:0;padding:0;font-size:12px;width:100%}
+.wd-search-activities-toggle ul li{border-bottom:1px solid #e5e5e5;}
+.wd-search-activities-toggle ul a{color:#575757;display:block;padding:5px 0;}
+.wd-search-activities-toggle ul a:hover{color:#000;text-decoration:none}
+@media screen and (min-width: 1130px) and (max-width: 1224px){
+	a.wd-activities-bt{width:145px}
+}
+@media screen and (max-width:920px){
+	.wd-pagelet-stream .wd-search-activities{width:249px;}
+	.wd-pagelet-stream a.wd-activities-bt{width:213px;}
+	.wd-pagelet-stream .wd-search-activities-toggle{width:226px;}
+}

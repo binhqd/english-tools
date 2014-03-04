@@ -1,0 +1,11 @@
+/* fix for ie10 */
+.wd-connect-radio-customer div.radio,.wd-connect-radio-customer div.radio span,.wd-connect-radio-customer div.radio input{height:17px;width:16px}
+.wd-connect-radio-customer div.radio span{background-position:-441px -230px}
+.wd-connect-radio-customer div.radio span.checked{background-position:-441px -249px}
+.wd-connect-radio-customer div.radio.hover.active span, .wd-connect-radio-customer div.radio.focus.active span { background-position:-441px -249px }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+	fieldset.wd-main-form-2 div.wd-remember input[type="checkbox"] { margin-top:-1px}
+	/* upload avatr button  profile */
+	.wd-uploadavatar-bt input{left:0;}
+}

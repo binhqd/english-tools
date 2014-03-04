@@ -1,0 +1,76 @@
+body, html{height:100%;}
+.wd-wrapper{font-size:12px;min-height:100%;margin-bottom:-73px;background:url("../img/front/bg-home-maincontainer.jpg") repeat;}
+.wd-wrapper .wd-center,#wd-footer .wd-center{margin:0 auto;width:1024px}
+h1.wd-ttlogo{float:left;padding-top:12px;padding-bottom:9px;}
+.wd-header-right{float:right;padding-bottom:9px;padding-top:9px}
+.wd-header-right .wd-text-youlook{background:url(../img/front/bg-sprite.png) -595px -147px no-repeat ;color:#2f2f2f;float:left;font-size:14px;margin-right:10px;margin-top:9px;padding-left:11px}
+.wd-header-right a{float:left;margin-left:9px}
+.wd-container{height:100%;}
+.wd-main-content-wr2{padding:40px 0 45px}
+.wd-main-content-wr2 img.wd-gallery-home{display:block;margin: 0 auto;}
+
+.wd-sologan{color:#fff;font-size:25px;margin-bottom:37px;line-height:28px;text-align:center}
+
+.wd-main-content-wr2 .wd-main-content-wrapper-1{min-height:296px}
+.wd-main-content-wr2 .wd-content-bt{text-align:center}
+.wd-main-content-wr2 .wd-content-bt .wd-join-bt-1{margin-right:30px}
+.wd-main-content-wr2 .wd-content-bt .wd-join-bt-1,.wd-main-content-wr2 .wd-content-bt .wd-sign-in-bt{display:inline-block;}
+
+.wd-main-content-bggray{background-color:#eee}
+
+.wd-connect-facebook-used-st{min-height:40px;text-align:center}
+.wd-username-facebook{color:#919191;font-size:11px;line-height:13px;padding-bottom:7px;}
+.wd-username-facebook a{color:#fff;}
+.wd-username-facebook .wd-icon-facebook{background:url(../img/front/bg-sprite.png) -326px -190px no-repeat;display:inline-block;zoom: 1;*display:inline;height:12px;margin-right:6px;vertical-align:top;width:12px}
+
+.wd-avataruser-facebook {font-size:0;padding-bottom:20px}
+.wd-avataruser-facebook a{cursor:pointer;display:inline-block;margin:0 1px;vertical-align:top;*zoom: 1;*display:inline;}
+.wd-avataruser-facebook a img{display:block;height:24px;width:24px;vertical-align:bottom}
+.wd-signin-more{text-align:center}
+.wd-signin-more .wd-sigin-facebook{background-color:#475ea7;border:1px solid #5572d0;color:#fff;display:inline-block;font-size:14px;font-weight:bold;padding:12px 35px 10px 33px;text-transform:uppercase;*zoom: 1;*display:inline;-moz-border-radius:4px;-webkit-border-radius:4px; border-radius:4px;}
+.wd-signin-more .wd-sigin-facebook:hover{background-color:#3e5499;text-decoration:none}
+
+/*login-page */
+.wd-right-content-hp{float:right;overflow:hidden;width:357px;}
+.wd-left-content-hp{float:left;width:588px}
+.wd-left-content-hp .wd_tt_4{margin-bottom:35px;margin-top:20px}
+.wd-login-img{margin-bottom:12px}
+.wd-intro-yl,.wd-intro-register-yl{color:#474747;list-style:none;margin:0;overflow:hidden;padding:0}
+.wd-intro-register-yl{padding-top:30px}
+.wd-intro-yl li{float:left;width:50%;}
+.wd-intro-register-yl li{overflow:hidden;margin-bottom:35px}
+.wd-intro-yl li .wd-icon-yli{float:left;margin-right:14px}
+.wd-intro-yl .wd-intro-yl-rightct,.wd-intro-register-yl .wd-intro-yl-rightct{font-size:14px;margin-top:15px;overflow:hidden;}
+.wd-intro-register-yl h4{font-size:20px;line-height:23px;margin-bottom:4px}
+.wd-intro-yl-rightct h4,.wd-intro-yl-rightct h4 a,.wd-intro-register-yl h4,.wd-intro-register-yl h4 a{color:#000;text-decoration:none}
+.wd-intro-register-yl li .wd-icon-yli{float:left;margin-right:30px}
+.wd-main-form-2 .wd_tt_n3{margin-bottom:10px}
+.wd-main-form-2 .wd_tt_n3{margin-bottom:14px}
+.wd-dis-tt{font-size:14px;margin-bottom:6px}
+/*login page .end */
+
+#wd-push{height:73px;}
+
+@media only screen and (min-device-height: 840px){
+	.wd-main-content-wr2 img.wd-gallery-home{margin:30px auto}
+}
+@media screen and (max-width: 1526px){
+	.wd-main-content-wr2{height:auto;padding:40px 10px 45px}
+}
+@media screen and (max-width: 1280px){
+	#wd-header .wd-top-header{padding:0 26px}
+}
+@media screen and (max-width: 1152px){
+	.wd-main-content-wr2 img.wd-gallery-home{width:100%;height:auto;margin-top:0}
+}
+@media screen and (max-width: 1024px){
+	.wd-wrapper .wd-center,#wd-footer .wd-center{width:100%}
+	#wd-header .wd-top-header{padding:0 10px}
+
+}
+@media screen and (max-width: 924px){
+	.wd-main-content-wr2 .wd-left-content-hp{float:none;clear:both;padding-bottom:30px;margin-left:50px}
+	.wd-main-content-wr2 .wd-right-content-hp{float:none;margin:0 auto}
+	.wd-main-content-wrapper-1 .wd-center{width:100%;overflow:hidden}
+}
+

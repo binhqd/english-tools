@@ -1,0 +1,36 @@
+.wd-action-more-buttons{position:relative;}
+.wd-action-more-buttons .wd-getact-bt,.wd-action-more-buttons .wd-dropdow-slmbt{border:1px solid #d84c19;display:block;color:#fff;font-size:12px;font-weight:bold;float:left;cursor:pointer;}
+.wd-action-more-buttons .wd-dropdow-slmbt .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -198px -40px;display:block;height:11px;width:11px}
+.wd-action-more-buttons .wd-dropdow-slmbt.wd-toggle-bt-active .wd-arrow{background-position:-187px -37px;width:11px}
+.wd-action-more-buttons .wd-dropdow-slmbt .wd-addmore{background:url(../img/front/bg-sprite.png) -392px -37px no-repeat; display:block;height:11px;width:11px}
+
+.wd-action-more-buttons .wd-getact-bt{padding:8px 10px;-moz-border-radius:3px 0 0 3px;-webkit-border-radius:3px 0 0 3px;border-radius:3px 0 0 3px;}
+.wd-action-more-buttons .wd-relationfriend-bt{background:url(../img/front/bg-sprite.png) no-repeat  -583px 11px;padding:8px 10px 8px 26px;}
+.wd-action-more-buttons .wd-dropdow-slmbt{padding:13px 12px 10px;-moz-border-radius:0 3px 3px 0;-webkit-border-radius:0 3px 3px 0;border-radius:0 3px 3px 0;}
+.wd-action-more-buttons .wd-follow-bt{padding:8px 20px}
+
+.wd-action-more-buttons .wd-actmore-user-toggle{background-color:#fff;display:none;border:1px solid #c7c7c7;position:absolute;top:42px;right:0;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-moz-box-shadow: 0 0 2px #ccc;-webkit-box-shadow: 0 0 2px #ccc; box-shadow: 0 0 2px #ccc;z-index:10}
+.wd-action-more-buttons .wd-actmore-user-toggle .wd-uparrow-1{background:url(../img/front/bg-sprite.png) -189px -56px no-repeat; display:block;position:absolute;top:-7px;right:12px;height:7px;width:11px}
+
+.wd-action-more-buttons .wd-actmore-user-toggle ul{list-style: none outside none;margin:0;padding:5px 0;}
+.wd-action-more-buttons .wd-actmore-user-toggle ul li a{color:#3b3b3b;display:block;padding:5px 16px;font-size:12px;min-width:105px}
+.wd-action-more-buttons .wd-actmore-user-toggle ul li a:hover{background-color:#e7e7e7;text-decoration:none}
+
+.wd-valueactical{float:right;clear:both;margin-top:8px;font-weight:lighter}
+.wd-valueactical .wd-test span{font-weight:500}
+
+.wd-valueactical .wd-dot-1{background:url(../img/front/bg-sprite.png) -392px -51px no-repeat; display:block;float:left;margin-top:5px;margin-right:5px;height:8px;width:8px}
+/* orange */
+.wd-action-more-orange-buttons .wd-getact-bt,.wd-action-more-orange-buttons .wd-dropdow-slmbt{background-color:#e45826;border-color:#d84c19}
+.wd-action-more-orange-buttons .wd-getact-bt{border-right-color:#ea7d56;}
+.wd-action-more-orange-buttons .wd-getact-bt:hover{background-color:#eb4003;border-color:#ce3600;border-right-color:#ea7d56}
+.wd-action-more-orange-buttons .wd-dropdow-slmbt:hover,.wd-action-more-orange-buttons .wd-toggle-bt-active{background-color:#eb4003;border-color:#ce3600;}
+.wd-action-more-orange-buttons .wd-valueactical .wd-dot-1{background-position:-392px -51px }
+.wd-action-more-orange-buttons .wd-getact-bt{text-shadow: 0px 0.5px 1px #d84c19;}
+/* green */
+.wd-action-more-green-buttons .wd-getact-bt,.wd-action-more-green-buttons .wd-dropdow-slmbt{background-color:#79bd42;border-color:#5c992b}
+.wd-action-more-green-buttons .wd-getact-bt{border-right-color:#96cb6c;}
+.wd-action-more-green-buttons .wd-getact-bt:hover{background-color:#6bac36;border-color:#5da622;border-right-color:#96cb6c}
+.wd-action-more-green-buttons .wd-dropdow-slmbt:hover,.wd-action-more-green-buttons .wd-toggle-bt-active{background-color:#6bac36;border-color:#5c992b;}
+.wd-action-more-green-buttons .wd-valueactical .wd-dot-1,.wd-valueactical-follow .wd-dot-1{background-position:-392px -62px }
+.wd-action-more-green-buttons .wd-getact-bt{text-shadow: 0px 0.5px 1px #5b982a;}

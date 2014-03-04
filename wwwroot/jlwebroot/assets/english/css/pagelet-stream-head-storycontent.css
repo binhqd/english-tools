@@ -1,0 +1,9 @@
+.wd-head-storycontent{border-bottom:1px solid #dfdfdf;padding:5px 15px 10px 5px;position:relative}
+
+.wd-head-storycontent .wd-avatar{float:left;height:40px;margin-right:10px}
+.wd-head-storycontent .wd-avatar img{-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;width:40px;height:40px;}
+.wd-head-storycontent .wd-avatar:hover img{border-color:#f98b64}
+.wd-head-storycontent .wd-head-storyinnercontent{overflow:hidden}
+.wd-head-storycontent .wd-arrow-down{background:url(../img/front/bg-sprite.png) no-repeat -189px -40px;bottom:-6px;display:block;left:24px;height:6px;position:absolute;width:9px;z-index:4}
+.wd-head-storycontent .wd-date-post{color:#7c7c7c;font-size:11px;line-height:13px}
+.wd-head-storycontent .wd_tt_n1{margin-top:5px}

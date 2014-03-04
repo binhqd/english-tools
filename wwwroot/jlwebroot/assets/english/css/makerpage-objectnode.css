@@ -1,0 +1,8 @@
+.wd-makerpage-objectnode{background-color:#f8f8f8;border-bottom:1px solid #cecece;padding:20px 19px 9px;position:relative}
+.wd-makerpage-objectnode-content .wd-avatar{float:left;margin-right:11px}
+.wd-makerpage-objectnode-content .wd-avatar img{border:4px solid #dbdbdb;height:54px;width:54px;-moz-border-radius:30px;-webkit-border-radius:30px;border-radius:30px;}
+.wd-makerpage-objectnode-content .wd-avatar:hover img{border-color:#F98B64}
+.wd-makerpage-objectnode-content .wd-makerpage-objectnode-info {color:#464646;overflow:hidden}
+.wd-makerpage-objectnode-content .wd-makerpage-objectnode-info h4{font-size:14px}
+.wd-makerpage-objectnode-arrowleft{background:url(../img/front/bg-sprite.png) no-repeat -203px -60px;display:block;height:9px;left:-6px;overflow:hidden;position:absolute;text-indent:-1983px;top:30px;width:6px;}
+.wd-makerpage-objectnode .wd-action-more-buttons.floatR{padding-left:25px}

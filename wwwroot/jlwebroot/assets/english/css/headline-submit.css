@@ -1,0 +1,13 @@
+.wd-headline-submit{overflow:hidden;width:100%;z-index:10}
+	/* for page edit profile*/
+.wd-headline-submit .wd-headtitle-left{border-bottom:1px solid #a1a1a1;border-right:1px solid #8dc162;float:left;height:31px;padding:13px 10px 5px 24px;-moz-box-shadow: 0px 2px 2px #CCCCCC;-webkit-box-shadow:0px 2px 2px #CCCCCC;box-shadow:0px 2px 2px #CCCCCC;width:408px}
+.wd-headline-submit .wd-headtitle-green{background-color:#95c86a;}
+/* for page edit profile*/
+.wd-headline-submit .wd-headline-main{border-bottom:1px solid #a1a1a1;height:49px;-moz-box-shadow: 0px 2px 2px #c3c3c3;-webkit-box-shadow:0px 2px 2px #c3c3c3;box-shadow:0px 2px 2px #c3c3c3; overflow:hidden;}
+.wd-button-submit{margin:8px 8px 0 0;}
+@media screen and (max-width: 1024px){
+	.wd-headline-submit .wd-headtitle-left{width:373px}
+}
+@media screen and (max-width: 768px){
+	.wd-headline-submit {position:static  !important}
+}

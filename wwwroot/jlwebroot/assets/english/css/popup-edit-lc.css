@@ -1,0 +1,53 @@
+.wd-popup-edit-lc,.wd-popup-add-newItem-lc{background-color:#f5f5f5;border:1px solid #cfcfcf; display:none;-moz-border-radius:1px;-webkit-border-radius:1px; border-radius:1px;-moz-box-shadow: 0 0 3px #ccc;-webkit-box-shadow: 0 0 3px #ccc;box-shadow:0 0 3px #ccc; width:355px;padding:20px 20px 5px;z-index:8;}
+.wd-popup-add-newItem-lc{margin:10px 0 5px}
+.wd-view-person-edit-content{position:absolute;top:0px;left:0;}
+.wd-popup-edit-lc .wd-icon-edit-2,.wd-edit-follows {position:absolute;top:5px;right:5px}
+
+.wd-edit-form-lc .wd-input{float:left;width:100%;margin-bottom:12px;}
+.wd-edit-form-lc .wd-submit{float:left;width:100%;margin-bottom:12px;clear:both}
+.wd-edit-form-lc .wd-input-ct-2{width:172px}
+.wd-edit-form-lc .wd-input label{float:left;width:100%;font-size:14px;font-weight:bold;margin-bottom:5px}
+.wd-edit-form-lc .wd-input label.wd-input{font-weight:normal;}
+.wd-edit-form-lc .wd-input input[type="text"]{background-color:#fff; float:left; border:1px solid #d0d0d0; font-size:14px; padding:7px 10px ;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px; margin-bottom:5px}
+.wd-edit-form-lc .wd-input input:focus,.wd-edit-form-lc .wd-input textarea:focus{border-color:#0088c1;}
+.wd-edit-form-lc .wd-input input.wd-input-1{width:332px}
+.wd-edit-form-lc .wd-input input.wd-input-2{width:150px}
+.wd-edit-form-lc .wd-input .wd-input-3{width:32px}
+.wd-edit-form-lc .wd-input .wd-former-name{color:#313131;cursor:pointer;font-size:12px;}
+.wd-edit-form-lc .wd-input .wd-former-name .wd-arrow{background:url(../img/front/bg-sprite.png) no-repeat -530px -70px;float:left;width:7px;height:7px;margin-top:6px;margin-right:3px}
+.wd-edit-form-lc .wd-input .wd-former-name .wd-arrow-activi{background-position:-541px -70px;margin-top:7px}
+.wd-edit-form-lc .wd-input .wd-blue-11{color:#0088c1;cursor:pointer;font-size:11px;}
+.wd-edit-form-lc .wd-input .wd-blue-11:hover{text-decoration:underline}
+.wd-edit-form-lc .wd-input .wd-textarea{background-color:#fff;border:1px solid #d3d3d3;margin-top:1px;clear:both;padding:10px}
+.wd-edit-form-lc .wd-input .wd-textarea textarea{ -moz-box-sizing: border-box; background-color: transparent; border: 0 none;color:#000; outline: 0 none;display:block;max-width: 100%;margin: 0;padding: 0; width: 100%;height:70px;resize: none; }
+.textareaClone{min-height:70px;}
+
+.wd-dis-form-toogle{clear:both}
+.wd-dis-form-toogle-ct{display:none;padding-top:5px}
+.wd-dis-form-toogle-ct .wd-input{margin-bottom:5px}
+.wd-dis-form-toogle-ct .wd-input input[type="radio"]{float:left;margin-right:7px;margin-top:1px;margin-left:7px}
+.wd-dis-form-toogle-ct .wd-input span{font-size:12px}
+.wd-dis-form-toogle-ct .wd-ex{font-size:12px}
+
+.wd-edit-form-lc .wd-submit input.wd-cancel-button{background-color:#969696;border-color:#828282;text-shadow:0px 0px 2px #6d6d6d}
+.wd-edit-form-lc .wd-submit input.wd-cancel-button:hover{background-color:#848383}
+
+.wd-item-edit-lc{opacity:0.40;filter:alpha(opacity=40)}
+.wd-list-2 li .wd-experience-edit-content{margin-left:-15px}
+.wd-list-2 li.wd-add-new-item{background-image:none;padding-left:0}
+.wd-edit-form-lc .wd-timeperiod-startdate,.wd-edit-form-lc .wd-timeperiod-enddate{float:left;width:170px}
+.wd-edit-form-lc .wd-dateattended-startdate,.wd-edit-form-lc .wd-dateattended-enddate{float:left;width:107px}
+.wd-edit-form-lc .wd-timeperiod-startdate select,.wd-edit-form-lc .wd-timeperiod-enddate select,.wd-edit-form-lc .wd-dateattended-startdate select,.wd-edit-form-lc .wd-dateattended-enddate select{border:1px solid #d0d0d0; font-size:14px;float:left;margin-left:11px;padding:6px 5px;width:104px;-moz-border-radius:2px; -webkit-border-radius:2px;border-radius:2px;}
+.wd-edit-form-lc .wd-dateattended-startdate select,.wd-edit-form-lc .wd-dateattended-enddate select{width:85px}
+.wd-edit-form-lc .wd-to{float:left;margin:7px 5px 0}
+.wd-edit-form-lc .wd-timeperiod-enddate .wd-current-position{padding:10px 5px 11px;display:none;}
+.wd-edit-form-lc .wd-timeperiod-enddate .still-here{font-weight:100;color:#494950;font-size:13px;margin-top:10px}
+.wd-edit-form-lc .wd-timeperiod-enddate .still-here input{margin-right:5px}
+
+.wd-add-new-item .wd-show-entire-section{background-color:#f5f5f5;border:1px dashed #cccccc;color:#007dcd;display:block;font-size:14px;font-weight:bold;margin-bottom:15px;padding:25px;text-align:center}
+.wd-add-new-item .wd-show-entire-section .wd-edit-add:hover{text-decoration:underline}
+.wd-add-new-item .wd-show-entire-section .wd-edit-add{background:url(../img/front/bg-sprite.png) no-repeat -589px -102px;display:inline-block;padding-left:21px}
+.wd-add-new-item .wd-show-entire-section-adding {color:#908f8f;}
+.wd-add-new-item .wd-show-entire-section-adding .wd-edit-add:hover{text-decoration:none}
+
+.wd-edit-follow-content{display:none}

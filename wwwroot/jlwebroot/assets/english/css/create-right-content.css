@@ -1,0 +1,36 @@
+.wd-type-container{background:url(../img/front/bg-right-content.png) repeat}
+/* Select Type Block */
+.wd-select-type{float:left;width:174px}
+.wd-addnew-type{float:right;width:30px;position:relative;min-height:36px}
+.wd-addnew-type a.wd-bt-addnew{display:block;width:30px;height:32px;background:url(../img/front/icon-sprite.png) -30px -119px no-repeat;position:relative;z-index:30}
+.wd-addnew-type a.wd-bt-addnew-open{height:36px;background:url(../img/front/icon-sprite.png) 0 -121px no-repeat}
+.wd-addnew-type .wd-form-addnew{position:absolute;right:0;top:35px;width:186px;padding:8px 10px 12px;border:1px solid #dbdbdb;background-color:#fff;display:none;z-index:20}
+.wd-addnew-type .wd-form-addnew label{color:#4b4b4d}
+.wd-addnew-type .wd-form-addnew input{border:1px solid #85bce6;padding:5px 3%;width:94%;margin-top:5px;font-size:0.95em;color:#616466;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px}
+
+.wd-form-input-infor-opacity{opacity:0.2}
+fieldset.wd-type-list{border-bottom:1px solid #DBDBDB}
+fieldset.wd-input-infor{padding-top:8px}
+fieldset.wd-input-infor-bg{background:url(../img/front/bg-right-content.png) repeat}
+fieldset.wd-input-infor .wd-input{margin-bottom:8px}
+fieldset.wd-input-infor .wd-input-100{width:100px}
+fieldset.wd-input-infor .wd-input input{border:1px solid #d6d6d6;font-family:arial;font-size:0.95em;padding:5px 3%;width:94%;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px}
+fieldset.wd-input-infor .wd-input input:focus{border:1px solid #85bce6}
+
+/* Accordion Right */
+.wd-accordion{overflow:hidden;position: relative;border-bottom:1px solid #dbdbdb}
+.wd-accordion h3.wd-title-accordion{background:url(../img/front/bg-accordion.png) repeat-x;padding:6px 15px 5px 34px;margin:0px;position:relative;cursor:pointer;border-top:1px solid #dbdbdb;font-size:0.95em;color:#616466;line-height:17px}
+.wd-accordion div.wd-para{margin:0;padding:5px 13px;position: relative;background-color:#ffffff;border-top:1px solid #dbdbdb}
+.wd-accordion div.wd-para div.wd-child-cont{margin: 0;padding: 0;position: relative}
+.wd-accordion  h3.wd-title-accordion span.wd-arrow{background:url(../img/front/icon-sprite.png) -22px -64px no-repeat;position:absolute;left:13px;top:7px;z-index:10;float:left;width:14px;height:14px}
+.wd-accordion  h3.wd-title-accordion:hover span.wd-arrow,.wd-accordion  h3.wd-title-accordion span.wd-arrow:hover,.wd-accordion  h3.wd-title-accordion span.wd-active-arrow{background:url(../img/front/icon-sprite.png) -36px -64px no-repeat}
+
+/* Tiny Scrollbar */
+#scrollbar1 {width:215px;clear:both}
+#scrollbar1 .viewport {width:210px;height:280px;overflow:hidden;position:relative}
+#scrollbar1 .overview {list-style:none;position:absolute;left:0;top:0;width:206px }
+#scrollbar1 .scrollbar,
+#scrollbar1 .thumb {background:transparent url(../img/front/bg-scrollbar.png) no-repeat;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px; }
+#scrollbar1 .scrollbar {position:relative;background-position: 0 0;float:right;width:10px;z-index:10}
+#scrollbar1 .thumb {background-color:#2a2a2a;height:20px;width:10px;cursor:pointer;overflow:hidden;position:absolute;top:0}
+#scrollbar1 .disable {display:none}

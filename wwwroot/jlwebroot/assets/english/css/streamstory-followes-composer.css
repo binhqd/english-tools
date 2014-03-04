@@ -1,0 +1,11 @@
+.wd-streamstory-followes-composer{background-color:#fff;border-bottom:1px solid #cbcbcb;border-right:1px solid #cbcbcb;font-size:12px;-moz-box-shadow: 0 0 3px #ccc;-webkit-box-shadow: 0 0 3px #ccc;box-shadow:0 0 3px #ccc;height:105px;padding:16px 16px 10px}
+/*.wd-streamstory-followes-content{overflow:hidden;}*/
+
+.wd-streamstory-followes-content .wd-user-interaction-status{padding:13px 0}
+.wd-streamstory-followes-content .wd-user-interaction-status li{padding-right:0}
+.wd-streamstory-followes-content .wd-user-interaction-status li .wd-icon-1{margin-right:6px}
+.wd-streamstory-followes-content .wd-user-interaction-status li .wd-value{color:#464646;font-size:12px}
+
+.wd-streamstory-followes-composer .wd-action-buttons-r{float:right;height:100%;margin-top:15px;padding-left:20px}
+.wd-streamstory-followes-composer .wd-action-buttons-r .wd-getact-bt{background-color:#79bd42;border:1px solid #5C992B;color:#fff;font-size:12px;font-weight:bold;cursor:pointer;display:block;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;padding:8px 25px}
+.wd-streamstory-followes-composer .wd-action-buttons-r .wd-getact-bt:hover{background-color:#6bac36;text-decoration:none}

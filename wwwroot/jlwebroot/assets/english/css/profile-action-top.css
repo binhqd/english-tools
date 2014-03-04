@@ -1,0 +1,38 @@
+.wd-profile-action-top{border-bottom:1px solid #cecece;padding:23px 20px ;}
+.wd-profile-action-top-content{background-color:#6187c6;padding:27px 35px 30px 33px;position:relative;}
+.wd-profile-action-top-content .wd-disc{color:#fff;font-size:14px;padding-bottom:12px}
+.wd-profile-action-top-content .wd-icon-thumb{float:right;margin-left:15px}
+.wd-profile-action-top-content .wd-input-search{box-shadow: none}
+.wd-profile-action-top-content .wd-close-top2{top:10px;right:10px}
+.wd-profile-action-top .wd-input-search input.wd-text-search{width:95%}
+.wd-profile-action-top .wd-input-search{padding:8px 14px 7px 20px}
+.wd-profile-action-top .wd-leftcontent{overflow:hidden}
+.wd-profile-action-top-content .wd-disc .wd-username{font-weight:bold;color:#fff}
+
+.wd-choice-connect-form .wd-note-yl{color:#f7f4a4;font-size:12px}
+.wd-choice-connect-form .wd-note-yl .wd-text-str{font-weight:bold}
+
+.wd-choice-connect-form .wd-input{padding:3px 0}
+.wd-choice-connect-form .wd-input label{color:#fff;font-size:14px}
+
+div.wd-submit{padding-top:10px;overflow:hidden}
+div.wd-submit .note-action-top-bt{background-color:#79bd42;border:1px solid #82cd46;color:#fff;float:left;font-size:12px;font-weight:bold; padding:7px 17px 9px;-moz-border-radius:5px;-webkit-border-radius:5px; border-radius:5px;text-shadow:none;margin-right:10px;cursor:pointer;text-shadow:0px 0px 2px #619e2f;line-height:14px}
+div.wd-submit .note-action-top-bt-2{padding:7px 34px 9px}
+div.wd-submit .note-action-top-bt:hover{background-color:#71b43b;text-decoration:none}
+div.wd-submit .wd-or,div.wd-submit .wd-link{color:#fff;display:inline-block;*display:inline;*zoom:1;font-size:12px;margin-top:7px;margin-right:5px}
+div.wd-submit .wd-link{font-weight:bold;}
+/* responsive*/
+@media screen and (max-width: 1440px){
+	.wd-profile-action-top .wd-input-search input.wd-text-search{width:94%}
+}
+@media screen and (max-width: 1280px){
+	.wd-profile-action-top .wd-input-search input.wd-text-search{width:93%}
+}
+@media screen and (max-width: 1152px){
+	.wd-profile-action-top-content{padding:15px 20px }
+	.wd-profile-action-top .wd-input-search input.wd-text-search{width:89%}
+}
+
+@media screen and (max-width: 768px){
+	.wd-profile-action-top-content .wd-icon-thumb{display:none}
+}

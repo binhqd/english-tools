@@ -1,0 +1,11 @@
+.wd-list-4{list-style: none outside none;margin:0;padding:0;}
+.wd-list-4 li{border-bottom:1px solid #cecece;overflow:hidden;padding:15px 0 12px}
+.wd-list-4 li .wd-avatar{cursor:pointer;float:left;margin-right:10px}
+.wd-list-4 li .wd-avatar img{width:54px;height:54px;}
+.wd-list-4 li .wd-articles-info{color:#464545;font-size:11px;line-height:15px;overflow:hidden}
+.wd-list-4 li .wd-articles-info h4{font-size:12px}
+.wd-list-4 li .wd-articles-info h4 a{color:#000}
+.wd-list-4 li .wd-articles-info p.wd-userpost{color:#7c7c7c}
+.wd-list-4-more{overflow:hidden;padding-top:10px}
+.wd-list-4-more .wd-viewall{float:right}
+.wd-viewall{float:right}

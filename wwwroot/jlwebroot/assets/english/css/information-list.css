@@ -1,0 +1,12 @@
+.wd-information-list {list-style: none outside none;margin:0;padding:0;clear:both}
+.wd-information-list li{padding:3px 0;overflow:hidden}
+.wd-information-list li label{color:#737373;float:left;margin-right:5px}
+.wd-information-list li span.wd-value-text{display:block;overflow:hidden}
+.wd-information-list li .infomation-view-more{font-style:italic;font-size:13px;color:#0088C1;cursor:pointer}
+.wd-information-list li .infomation-view-more:hover{text-decoration:underline;}
+
+.wd-infolist-toggle-content .jspDrag{background-image: url(../img/front/transparent-white.png) ;}
+.wd-update-infor-link{color:#0077c3;font-size:14px;font-weight:bold;float:right;}
+.wd-update-infor-link .wd-icon-update-info{float:left;margin-right:9px}
+.wd-left-block .wd-update-infor-link{display:none}
+.wd-left-block:hover .wd-update-infor-link{display:block}

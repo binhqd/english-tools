@@ -1,0 +1,12 @@
+#popup_overlay{background:url(../img/front/bg-overlay-2.png) repeat 0 0}
+#popup_container {background: #FFF; border: solid 6px #5b5b5b; color: #000;font-family: Arial, sans-serif;font-size: 12px;min-width: 475px; /* Dialog will be no smaller than this */max-width: 600px; /* Dialog will wrap after this width */-moz-border-radius: 7px;-webkit-border-radius: 7px;border-radius: 7px;}
+#popup_title {background-color:#6187c6;border-bottom: solid 1px #999;color: #fff;cursor: default;font-size: 14px;font-weight: bold;padding: 10px 20px;margin: 0;text-align: left;}
+#popup_content {padding: 1em 1.75em;margin: 0em;}
+#popup_content.confirm{padding:25px 20px}
+#popup_panel {background-color:#eee;border-top:1px solid #d6d6d6;margin:0;padding:5px;text-align: right;}
+#popup_panel #popup_ok{background-color:#e84c01;border:1px solid #cc4200;color:#fff;cursor:pointer;font-size:12px; font-weight:bold; 
+padding:5px 18px; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+#popup_panel #popup_ok:hover{background-color:#f55d27}
+#popup_panel #popup_cancel{background-color:#a6a6a6;border:1px solid #989898;color:#fff;cursor:pointer;font-size:12px; font-weight:bold; 
+padding:5px 18px; -moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;margin-left:5px}
+#popup_panel #popup_cancel:hover{background-color:#999}

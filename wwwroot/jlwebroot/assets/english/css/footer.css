@@ -1,0 +1,19 @@
+#wd-footer{background-color:#eee;border-top:1px solid #cecece;clear:both;font-size:12px;overflow:hidden;padding:18px 26px}
+.wd-left-footer{float:left}
+.wd-right-footer{float:right}
+.wd-footer-menu{list-style: none outside none;margin:0;padding:5px 0 0;overflow:hidden}
+.wd-footer-menu li{background:url(../img/front/bg-dot-3.png) no-repeat 0 center;float:left;padding:0 15px 0 8px;line-height:13px}
+.wd-footer-menu li a{color:#505050}
+
+.wd-share-nw{list-style: none outside none;margin:0;padding:5px 0 0;overflow:hidden;}
+.wd-share-nw li{float:left;padding-left:10px}
+.wd-share-nw li a{background:url(../img/front/bg-sprite.png) no-repeat 0 -33px;display:block;height:30px; overflow:hidden;text-indent:-1983px;width:30px}
+.wd-share-nw li a.wd-face{background-position:0 -33px}
+.wd-share-nw li a.wd-twiter{background-position:-31px -33px}
+.wd-share-nw li a.wd-rss{background-position:-62px -33px}
+@media screen and (max-width:768px){
+	#wd-footer{padding:18px 0;width:768px}
+	#wd-footer .wd-center {width:100%}
+	#wd-footer .wd-left-footer{margin-left:10px}
+	#wd-footer .wd-right-footer{margin:10px 15px 5px 0}
+}

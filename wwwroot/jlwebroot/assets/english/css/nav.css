@@ -1,0 +1,38 @@
+.wd-md-header{background-color:#171717;border-top:1px solid #101010;height:40px;}
+.wd-nav{float:left;list-style:none;margin:0;outline:0;padding:10px 10px 7px;}
+.wd-nav li{float:left;font-size:12px;padding:0 14px;font-weight:bold;}
+.wd-nav li a{color:#8b8b8b}
+.wd-nav li a:hover,.wd-nav li.wd-active a,.wd-nav li a.wd-toggle-bt-active{color:#fff;text-decoration:none}
+.wd-nav li.wd-haschild{padding-right:10px}
+.wd-nav li.wd-haschild a.wd-more{display:block;position:relative;padding-right:22px}
+.wd-nav li.wd-haschild a .wd-arrow{background:url(../img/front/bg-sprite.png) -244px -118px no-repeat; display:block;position:absolute;top:6px;right:4px;height:8px;width:8px}
+.wd-nav li.wd-addmore{padding:0 ;}
+.wd-nav li.wd-addmore .wd-add-more-interest{background:url(../img/front/bg-sprite.png) -292px -190px no-repeat; display:block; margin-top:3px;height:15px;width:15px}
+.wd-nav li .wd-more-interest-link{font-weight:normal}
+.wd-more-interest-link{display:block;overflow:hidden}
+.wd-more-interest-link .wd-icon{background:url(../img/front/bg-sprite.png) -294px -191px no-repeat; display:block;float:left;margin-top:3px;margin-right:5px;height:11px;width:11px}
+/* nav-sub*/
+.wd-nav li.wd-haschild{position:relative}
+.wd-nav .wd-categorynav{background-color:#fff;display:none;border:1px solid #c7c7c7;position:absolute;top:30px;right:16px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;-moz-box-shadow: 0 0 2px #77;-webkit-box-shadow: 0 0 2px #777; box-shadow: 0 0 2px #777;}
+.wd-nav .wd-categorynav .wd-uparrow-1{background:url(../img/front/bg-sprite.png) -189px -56px no-repeat; display:block;position:absolute;top:-7px;right:32px;height:7px;width:11px}
+.wd-nav .wd-categorynav ul{list-style: none outside none;margin:0;padding:5px 0;}
+.wd-nav .wd-categorynav ul li{padding:0;}
+.wd-nav .wd-categorynav ul li a{color:#616161;display:block;padding:5px 16px;font-size:12px;min-width:105px;font-weight:normal}
+.wd-nav .wd-categorynav ul li a:hover{background-color:#e7e7e7;color:#000;text-decoration:none}
+
+/*home page*/
+#wd-header .wd-stt{background:url(../img/front/bg-topmenur-home.png) no-repeat right top;color:#bab8b6;float:left;font-size:12px;height:24px;padding:10px 30px 6px 32px;width:115px}
+/* responsive*/
+@media screen and (max-width: 1024px){	
+	.wd-nav{padding-left:0}
+	#wd-header .wd-stt{padding:10px 10px 6px;width:143px}
+}
+@media screen and (max-width: 924px){
+	#wd-header .wd-stt{padding:10px 10px 6px }
+	.wd-nav{padding:10px 0 7px}
+	.wd-nav li{padding:0 7px}
+}
+@media screen and (max-width: 924px){
+	#wd-header .wd-stt{padding:10px 10px 6px 0px;width:153px}
+	
+}

@@ -1,0 +1,7 @@
+.wd-related-articles-r{padding:18px 24px}
+.wd-related-articles-list{list-style: none outside none;margin:0;padding:0;}
+.wd-related-articles-list li{overflow:hidden;padding-top:15px}
+.wd-related-articles-list li .wd-avatar{cursor:pointer;float:left;margin-right:10px}
+.wd-related-articles-list li .wd-avatar img{width:54px;height:54px;}
+.wd-related-articles-list li .wd-articles-info{color:#464545;line-height:17px;overflow:hidden}
+.wd-related-articles-list li .wd-articles-info h4{font-size:12px}
